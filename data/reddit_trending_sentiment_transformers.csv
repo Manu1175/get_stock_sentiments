@@ -1,0 +1,592 @@
+ticker,company_name,bullish,bearish,neutral,sentiment_ratio,num_posts,engagement_score,top_keywords,timestamp
+TH,Target Hospitality Corp.,0.0,1.0,0.0,0.0,1,0.00048192771084337347,"th, critical, minerals, contract, ai",2025-08-28 18:14:24
+UNH,UnitedHealth Group Incorporated,0.26666666666666666,0.6666666666666666,0.06666666666666667,0.16,15,0.007228915662650603,"unh, revenue, pt, q, ai",2025-08-28 18:14:26
+XXXXX,Unknown,0.0,1.0,0.0,0.0,16,0.0077108433734939755,"wiki, investing, https, www, reddit",2025-08-28 18:14:30
+NVDA,NVIDIA Corporation,0.1111111111111111,0.8888888888888888,0.0,0.058823529411764705,9,0.004337349397590362,"revenue, ai, nvda, pt, 6",2025-08-28 18:14:31
+ROOT,"Root, Inc.",0.0,1.0,0.0,0.0,2,0.0009638554216867469,"root, market, progressive, name, stock",2025-08-28 18:14:32
+OPEN,Opendoor Technologies Inc.,0.125,0.875,0.0,0.06666666666666667,8,0.0038554216867469878,"https, open, com, finviz, quote",2025-08-28 18:14:33
+CRWV,"CoreWeave, Inc.",0.16666666666666666,0.8333333333333334,0.0,0.0909090909090909,6,0.002891566265060241,"coreweave, crwv, inference, stock, ai",2025-08-28 18:14:34
+MSFT,Microsoft Corporation,0.0,1.0,0.0,0.0,6,0.002891566265060241,"msft, increased, stake, stock, earnings",2025-08-28 18:14:35
+GOOGL,Alphabet Inc.,0.5,0.5,0.0,0.3333333333333333,4,0.0019277108433734939,"google, ai, cloud, googl, hpc",2025-08-28 18:14:36
+META,"Meta Platforms, Inc.",0.0,1.0,0.0,0.0,5,0.0024096385542168677,"meta, data, https, www, sec",2025-08-28 18:14:36
+NVO,Novo Nordisk A/S,0.2,0.8,0.0,0.11111111111111112,5,0.0024096385542168677,"stock, million, nvo, mash, 1",2025-08-28 18:14:37
+PLTR,Palantir Technologies Inc.,0.6,0.2,0.2,0.5,5,0.0024096385542168677,"revenue, 2, pt, ai, q",2025-08-28 18:14:38
+AAPL,Apple Inc.,0.0,1.0,0.0,0.0,1,0.00048192771084337347,"price, aapl, chart, https, www",2025-08-28 18:14:39
+AMD,"Advanced Micro Devices, Inc.",0.0,1.0,0.0,0.0,4,0.0019277108433734939,"market, 6, august, stock, rose",2025-08-28 18:14:40
+MDGL,"Madrigal Pharmaceuticals, Inc.",0.0,1.0,0.0,0.0,2,0.0009638554216867469,"stock, madrigal, million, 1, mdgl",2025-08-28 18:14:40
+SPY,SPDR S&P 500 ETF,0.0,1.0,0.0,0.0,4,0.0019277108433734939,"monthly, spy, pullback, year, held",2025-08-28 18:14:41
+IQ,"iQIYI, Inc.",0.0,1.0,0.0,0.0,1,0.00048192771084337347,"content, domestic, iq, rumored, dramas",2025-08-28 18:14:41
+INTC,Intel Corporation,0.25,0.75,0.0,0.14285714285714285,4,0.0019277108433734939,"revenue, pt, ai, q, growth",2025-08-28 18:14:42
+SAMPL,Unknown,0.0,1.0,0.0,0.0,1,0.00048192771084337347,"sell, 180, options, around, position",2025-08-28 18:14:43
+QS,QuantumScape Corporation,0.0,1.0,0.0,0.0,1,0.00048192771084337347,"qs, term, short, hold, need",2025-08-28 18:14:43
+CVX,Chevron Corporation,0.0,1.0,0.0,0.0,1,0.00048192771084337347,"data, energy, power, centers, ai",2025-08-28 18:14:44
+BE,Bloom Energy Corporation,0.0,1.0,0.0,0.0,1,0.00048192771084337347,"data, energy, power, centers, ai",2025-08-28 18:14:45
+LULU,lululemon athletica inc.,0.0,1.0,0.0,0.0,1,0.00048192771084337347,"lulu, undervalued, international, growth, china",2025-08-28 18:14:45
+AMZN,"Amazon.com, Inc.",0.3333333333333333,0.6666666666666666,0.0,0.2,3,0.0014457831325301205,"increased, stake, day, amzn, anyone",2025-08-28 18:14:46
+ORCL,Oracle Corporation,0.0,1.0,0.0,0.0,2,0.0009638554216867469,"increased, stake, orcl, oscr, institutional",2025-08-28 18:14:46
+AIFU,AIFU Inc.,0.0,1.0,0.0,0.0,3,0.0014457831325301205,"increased, stake, aifu, also, nvda",2025-08-28 18:14:46
+NBIS,Unknown,0.0,1.0,0.0,0.0,3,0.0014457831325301205,"ai, nebius, salesforce, training, market",2025-08-28 18:14:47
+RDDT,"Reddit, Inc.",0.5,0.5,0.0,0.3333333333333333,2,0.0009638554216867469,"reddit, search, still, rddt, png",2025-08-28 18:14:48
+SNAP,Snap Inc.,0.0,1.0,0.0,0.0,2,0.0009638554216867469,"revenue, financial, advice, snap, ai",2025-08-28 18:14:48
+PSKY,Paramount Skydance Corporation,0.0,1.0,0.0,0.0,3,0.0014457831325301205,"psky, yolo, captain, crayola, taken",2025-08-28 18:14:49
+GRAB,Grab Holdings Limited,1.0,0.0,0.0,1.0,2,0.0009638554216867469,"grab, 11k, yolo, money, valued",2025-08-28 18:14:49
+TMDX,"TransMedics Group, Inc.",0.0,1.0,0.0,0.0,1,0.00048192771084337347,"tmdx, two, monopoly, know, earnings",2025-08-28 18:14:50
+SRPT,"Sarepta Therapeutics, Inc.",0.3333333333333333,0.6666666666666666,0.0,0.2,3,0.0014457831325301205,"stock, million, madrigal, 1, baker",2025-08-28 18:14:50
+SBET,"SharpLink Gaming, Inc.",0.0,1.0,0.0,0.0,3,0.0014457831325301205,"eth, sbet, mnav, etha, 1",2025-08-28 18:14:51
+O,Realty Income Corporation,0.2,0.8,0.0,0.11111111111111112,20,0.00963855421686747,"https, com, energy, open, stock",2025-08-28 18:14:53
+SMR,NuScale Power Corporation,0.5,0.5,0.0,0.3333333333333333,2,0.0009638554216867469,"nuclear, company, haleu, isotopes, asp",2025-08-28 18:14:54
+RUN,Sunrun Inc.,0.0,1.0,0.0,0.0,2,0.0009638554216867469,"solar, power, trump, wind, projects",2025-08-28 18:14:54
+OXY,Occidental Petroleum Corporation,0.0,1.0,0.0,0.0,1,0.00048192771084337347,"data, energy, power, centers, ai",2025-08-28 18:14:55
+MP,MP Materials Corp.,0.0,1.0,0.0,0.0,1,0.00048192771084337347,"data, energy, power, centers, ai",2025-08-28 18:14:56
+ORR,Militia Long/Short Equity ETF,1.0,0.0,0.0,1.0,1,0.00048192771084337347,"long, orr, short, etf, day",2025-08-28 18:14:56
+APLD,Applied Digital Corporation,0.0,1.0,0.0,0.0,2,0.0009638554216867469,"apld, ai, power, per, mw",2025-08-28 18:14:57
+OSCR,"Oscar Health, Inc.",0.0,1.0,0.0,0.0,2,0.0009638554216867469,"increased, stake, oscr, unh, institutional",2025-08-28 18:14:57
+SOFI,"SoFi Technologies, Inc.",0.0,1.0,0.0,0.0,2,0.0009638554216867469,"long, sofi, sell, managed, actually",2025-08-28 18:14:57
+KIEV,Unknown,0.0,1.0,0.0,0.0,1,0.00048192771084337347,"th, critical, minerals, contract, ai",2025-08-28 18:14:58
+ONDS,Ondas Holdings Inc.,0.0,1.0,0.0,0.0,2,0.0009638554216867469,"onds, yolo, 2, 4k, 5",2025-08-28 18:14:59
+FN,Fabrinet,0.5,0.5,0.0,0.3333333333333333,2,0.0009638554216867469,"week, fn, everything, good, far",2025-08-28 18:14:59
+BITF,Bitfarms Ltd.,1.0,0.0,0.0,1.0,1,0.00048192771084337347,"ai, hpc, bitfarms, high, performance",2025-08-28 18:15:00
+WULF,TeraWulf Inc.,0.5,0.5,0.0,0.3333333333333333,2,0.0009638554216867469,"ai, hpc, bitfarms, high, performance",2025-08-28 18:15:00
+PL,Planet Labs PBC,0.42857142857142855,0.42857142857142855,0.14285714285714285,0.3,7,0.0033734939759036144,"revenue, 2, 1, pt, ai",2025-08-28 18:15:02
+RKLB,Rocket Lab Corporation,0.5,0.5,0.0,0.3333333333333333,2,0.0009638554216867469,"rklb, calls, electron, 45, call",2025-08-28 18:15:02
+MER,Meren Energy Inc.,0.0,1.0,0.0,0.0,1,0.00048192771084337347,"company, meren, oil, production, cash",2025-08-28 18:15:03
+HUT,Hut 8 Corp.,0.0,1.0,0.0,0.0,1,0.00048192771084337347,"abtc, hut8, play, hut, btc",2025-08-28 18:15:03
+NIO,NIO Inc.,0.5,0.5,0.0,0.3333333333333333,2,0.0009638554216867469,"revenue, pt, q, ai, buy",2025-08-28 18:15:04
+AEO,"American Eagle Outfitters, Inc.",0.5,0.5,0.0,0.3333333333333333,2,0.0009638554216867469,"tmdx, aeo, sydney, sweeney, two",2025-08-28 18:15:05
+LLY,Eli Lilly and Company,0.0,1.0,0.0,0.0,2,0.0009638554216867469,"tmdx, lly, two, monopoly, know",2025-08-28 18:15:05
+COIN,"Coinbase Global, Inc.",1.0,0.0,0.0,1.0,1,0.00048192771084337347,"conl, coin, 2x, yolo, bought",2025-08-28 18:15:06
+PATH,UiPath Inc.,0.0,1.0,0.0,0.0,1,0.00048192771084337347,"uipath, ai, microsoft, like, arr",2025-08-28 18:15:06
+ANF,Abercrombie & Fitch Co.,1.0,0.0,0.0,1.0,1,0.00048192771084337347,"hollister, earnings, anf, abercrombie, school",2025-08-28 18:15:07
+ASPI,ASP Isotopes Inc.,0.0,1.0,0.0,0.0,1,0.00048192771084337347,"company, haleu, isotopes, nuclear, asp",2025-08-28 18:15:07
+OKLO,Oklo Inc.,0.5,0.5,0.0,0.3333333333333333,2,0.0009638554216867469,"company, haleu, nuclear, isotopes, asp",2025-08-28 18:15:08
+KO,The Coca-Cola Company,1.0,0.0,0.0,1.0,1,0.00048192771084337347,"ko, bull, thesis, looking, coca",2025-08-28 18:15:08
+IONQ,"IonQ, Inc.",0.0,1.0,0.0,0.0,2,0.0009638554216867469,"skyt, quantum, insiders, also, ionq",2025-08-28 18:15:09
+TSLA,"Tesla, Inc.",0.0,1.0,0.0,0.0,2,0.0009638554216867469,"_, billion, tesla, per, tsla",2025-08-28 18:15:10
+GILD,"Gilead Sciences, Inc.",0.0,1.0,0.0,0.0,1,0.00048192771084337347,"mash, gilead, drops, novo, gild",2025-08-28 18:15:10
+BGM,BGM Group Ltd.,0.0,1.0,0.0,0.0,2,0.0009638554216867469,"msft, bgm, astera, labs, alab",2025-08-28 18:15:11
+QQQ,Invesco QQQ Trust,0.0,1.0,0.0,0.0,2,0.0009638554216867469,"cut, fed, qqq, spy, msft",2025-08-28 18:15:11
+TWLO,Twilio Inc.,0.0,1.0,0.0,0.0,1,0.00048192771084337347,"twlo, thoughts, earnings, month, 1",2025-08-28 18:15:12
+ET,Energy Transfer LP,0.0,1.0,0.0,0.0,1,0.00048192771084337347,"thinking, buy, pooping, et, got",2025-08-28 18:15:12
+ASTS,"AST SpaceMobile, Inc.",0.0,1.0,0.0,0.0,1,0.00048192771084337347,"move, implied, earnings, asts, options",2025-08-28 18:15:12
+CAR,"Avis Budget Group, Inc.",0.0,1.0,0.0,0.0,1,0.00048192771084337347,"car, dip, call, trading, want",2025-08-28 18:15:13
+FIG,"Figma, Inc.",0.0,1.0,0.0,0.0,2,0.0009638554216867469,"ipo, fig, figma, options, later",2025-08-28 18:15:13
+QIMC,Unknown,1.0,0.0,0.0,1.0,1,0.00048192771084337347,"hydrogen, energy, canada, natural, funding",2025-08-28 18:15:14
+ACHR,Archer Aviation Inc.,0.0,1.0,0.0,0.0,1,0.00048192771084337347,"9, achr, still, yet, 30",2025-08-28 18:15:15
+JOBY,"Joby Aviation, Inc.",0.0,1.0,0.0,0.0,1,0.00048192771084337347,"ohio, joby, aviation, promised, 2",2025-08-28 18:15:15
+FSLR,"First Solar, Inc.",0.0,1.0,0.0,0.0,1,0.00048192771084337347,"solar, power, trump, wind, projects",2025-08-28 18:15:16
+NXDR,Unknown,0.0,1.0,0.0,0.0,1,0.00048192771084337347,"nextdoor, growth, ads, ad, app",2025-08-28 18:15:16
+NFLX,"Netflix, Inc.",0.0,1.0,0.0,0.0,1,0.00048192771084337347,"increased, stake, oscr, institutional, ownership",2025-08-28 18:15:17
+ARM,Arm Holdings plc,0.0,1.0,0.0,0.0,1,0.00048192771084337347,"increased, stake, oscr, institutional, ownership",2025-08-28 18:15:17
+DHI,"D.R. Horton, Inc.",0.0,1.0,0.0,0.0,1,0.00048192771084337347,"increased, stake, oscr, institutional, ownership",2025-08-28 18:15:18
+LEN,Lennar Corporation,0.0,1.0,0.0,0.0,1,0.00048192771084337347,"increased, stake, oscr, institutional, ownership",2025-08-28 18:15:18
+NUE,Nucor Corporation,0.0,1.0,0.0,0.0,1,0.00048192771084337347,"increased, stake, oscr, institutional, ownership",2025-08-28 18:15:19
+INOD,Innodata Inc.,0.0,1.0,0.0,0.0,1,0.00048192771084337347,"companies, innodata, company, ai, quarter",2025-08-28 18:15:19
+BROS,Dutch Bros Inc.,0.0,1.0,0.0,0.0,1,0.00048192771084337347,"companies, innodata, company, ai, quarter",2025-08-28 18:15:20
+SFTBY,SoftBank Group Corp.,1.0,0.0,0.0,1.0,1,0.00048192771084337347,"softbank, sftby, owned, stock, long",2025-08-28 18:15:20
+RCAT,"Red Cat Holdings, Inc.",0.0,1.0,0.0,0.0,1,0.00048192771084337347,"fuzzy, panda, expose, rcat, subject",2025-08-28 18:15:21
+RY,Royal Bank of Canada,0.0,1.0,0.0,0.0,1,0.00048192771084337347,"canadian, banks, ry, 10x, kick",2025-08-28 18:15:21
+NAK,Northern Dynasty Minerals Ltd.,1.0,0.0,0.0,1.0,1,0.00048192771084337347,"collect, knick, naks, want, put",2025-08-28 18:15:21
+MDB,"MongoDB, Inc.",0.0,1.0,0.0,0.0,1,0.00048192771084337347,"blah, snow, png, dd, mdb",2025-08-28 18:15:22
+SNOW,Snowflake Inc.,0.0,1.0,0.0,0.0,1,0.00048192771084337347,"blah, snow, png, dd, mdb",2025-08-28 18:15:22
+UUUU,Energy Fuels Inc.,1.0,0.0,0.0,1.0,1,0.00048192771084337347,"uuuu, 10k, mining, stocks, getting",2025-08-28 18:15:23
+UPST,"Upstart Holdings, Inc.",0.0,1.0,0.0,0.0,1,0.00048192771084337347,"tmdx, two, monopoly, know, earnings",2025-08-28 18:15:23
+CSIQ,Canadian Solar Inc.,0.0,1.0,0.0,0.0,1,0.00048192771084337347,"china, solar, csiq, puts, gain",2025-08-28 18:15:24
+CONL,GraniteShares 2x Long COIN Daily ETF,1.0,0.0,0.0,1.0,1,0.00048192771084337347,"conl, coin, 2x, yolo, bought",2025-08-28 18:15:24
+TGT,Target Corporation,0.0,1.0,0.0,0.0,1,0.00048192771084337347,"line, target, self, checkout, mins",2025-08-28 18:15:25
+WMT,Walmart Inc.,0.0,1.0,0.0,0.0,1,0.00048192771084337347,"line, target, self, checkout, mins",2025-08-28 18:15:25
+VKTX,"Viking Therapeutics, Inc.",0.0,1.0,0.0,0.0,1,0.00048192771084337347,"caught, knife, played, bounce, vktx",2025-08-28 18:15:25
+GLXY,Galaxy Digital,0.0,1.0,0.0,0.0,1,0.00048192771084337347,"glxy, bags, feeling, extra, heavy",2025-08-28 18:15:26
+W,Wayfair Inc.,0.2,0.8,0.0,0.11111111111111112,5,0.0024096385542168677,"ai, billion, hpc, computing, google",2025-08-28 18:15:27
+BLSH,Bullish,0.0,1.0,0.0,0.0,1,0.00048192771084337347,"blsh, bullshit, ipo, told, shit",2025-08-28 18:15:27
+PACS,"PACS Group, Inc.",0.0,1.0,0.0,0.0,1,0.00048192771084337347,"pacs, https, com, still, facilities",2025-08-28 18:15:28
+ENSG,"The Ensign Group, Inc.",0.0,1.0,0.0,0.0,1,0.00048192771084337347,"pacs, https, com, still, facilities",2025-08-28 18:15:28
+NUVB,Nuvation Bio Inc.,0.0,1.0,0.0,0.0,1,0.00048192771084337347,"pacs, https, com, still, facilities",2025-08-28 18:15:29
+RBLX,Roblox Corporation,0.0,1.0,0.0,0.0,1,0.00048192771084337347,"nice, little, rblx, play, buying",2025-08-28 18:15:29
+R,"Ryder System, Inc.",0.14285714285714285,0.8571428571428571,0.0,0.07692307692307691,14,0.006746987951807229,"reddit, root, solar, ai, still",2025-08-28 18:15:31
+AMBQ,Unknown,0.0,1.0,0.0,0.0,1,0.00048192771084337347,"ai, company, earnings, wearables, like",2025-08-28 18:15:32
+MSOS,AdvisorShares Pure US Cannabis ETF,0.0,1.0,0.0,0.0,1,0.00048192771084337347,"msos, otm, calls, cannabis, rescheduling",2025-08-28 18:15:32
+GOOG,Alphabet Inc.,0.5,0.5,0.0,0.3333333333333333,4,0.0019277108433734939,"google, ai, cloud, googl, hpc",2025-08-28 18:15:33
+TTD,"The Trade Desk, Inc.",0.0,1.0,0.0,0.0,1,0.00048192771084337347,"dip, ttd, bought, kept, dipping",2025-08-28 18:15:34
+RKT,"Rocket Companies, Inc.",0.0,1.0,0.0,0.0,1,0.00048192771084337347,"rkt, 42, si, fuck, morgan",2025-08-28 18:15:34
+PONY,Pony AI Inc.,0.0,1.0,0.0,0.0,1,0.00048192771084337347,"wrd, 6, end, looking, primed",2025-08-28 18:15:35
+WRD,WeRide Inc.,0.0,1.0,0.0,0.0,1,0.00048192771084337347,"wrd, 6, end, looking, primed",2025-08-28 18:15:35
+NVT,nVent Electric plc,0.0,1.0,0.0,0.0,1,0.00048192771084337347,"ai, nvt, glw, infrastructure, names",2025-08-28 18:15:36
+GLW,Corning Incorporated,0.0,1.0,0.0,0.0,1,0.00048192771084337347,"ai, nvt, glw, infrastructure, names",2025-08-28 18:15:36
+LEU,Centrus Energy Corp.,1.0,0.0,0.0,1.0,1,0.00048192771084337347,"nuclear, energy, looking, sector, clean",2025-08-28 18:15:37
+CEG,Constellation Energy Corporation,1.0,0.0,0.0,1.0,1,0.00048192771084337347,"nuclear, energy, looking, sector, clean",2025-08-28 18:15:37
+NNE,NANO Nuclear Energy Inc.,1.0,0.0,0.0,1.0,1,0.00048192771084337347,"nuclear, energy, looking, sector, clean",2025-08-28 18:15:37
+IRA,Unknown,0.0,1.0,0.0,0.0,1,0.00048192771084337347,"advisor, personal, account, retirement, plus",2025-08-28 18:15:38
+ASML,ASML Holding N.V.,1.0,0.0,0.0,1.0,1,0.00048192771084337347,"us, ex, companies, markets, dividend",2025-08-28 18:15:39
+VOO,Vanguard S&P 500 ETF,0.0,1.0,0.0,0.0,1,0.00048192771084337347,"held, stress, 4, year, tesla",2025-08-28 18:15:39
+B,Unknown,0.1111111111111111,0.8888888888888888,0.0,0.058823529411764705,9,0.004337349397590362,"company, ai, stock, data, energy",2025-08-28 18:15:41
+LXRX,"Lexicon Pharmaceuticals, Inc.",0.0,1.0,0.0,0.0,1,0.00048192771084337347,"diabetes, drug, pain, phase, novo",2025-08-28 18:15:41
+TSM,Taiwan Semiconductor Manufacturing Company Limited,0.0,1.0,0.0,0.0,1,0.00048192771084337347,"ai, amd, especially, getting, bubble",2025-08-28 18:15:42
+MRVL,"Marvell Technology, Inc.",0.0,1.0,0.0,0.0,1,0.00048192771084337347,"revenue, pt, q, ai, buy",2025-08-28 18:15:42
+MAAS,Maase Inc.,0.0,1.0,0.0,0.0,1,0.00048192771084337347,"revenue, pt, q, ai, buy",2025-08-28 18:15:43
+AZTR,"Azitra, Inc.",0.0,1.0,0.0,0.0,1,0.00048192771084337347,"revenue, pt, q, ai, buy",2025-08-28 18:15:44
+SPOK,"Spok Holdings, Inc.",0.0,1.0,0.0,0.0,1,0.00048192771084337347,"spok, 0, vs, dividend, value",2025-08-28 18:15:44
+NUV,"Nuveen Municipal Value Fund, Inc.",0.0,1.0,0.0,0.0,2,0.0009638554216867469,"pacs, https, com, still, facilities",2025-08-28 18:15:45
+OVLY,Oak Valley Bancorp,0.0,1.0,0.0,0.0,1,0.00048192771084337347,"insiders, eli, lilly, lly, bought",2025-08-28 18:15:45
+UBFO,United Security Bancshares,0.0,1.0,0.0,0.0,1,0.00048192771084337347,"insiders, eli, lilly, lly, bought",2025-08-28 18:15:46
+KSS,Kohl's Corporation,0.0,1.0,0.0,0.0,1,0.00048192771084337347,"gamma, still, july, could, kohl",2025-08-28 18:15:46
+SMCI,"Super Micro Computer, Inc.",1.0,0.0,0.0,1.0,1,0.00048192771084337347,"still, ai, stocks, fairly, growth",2025-08-28 18:15:47
+ALAB,"Astera Labs, Inc.",0.0,1.0,0.0,0.0,1,0.00048192771084337347,"astera, labs, alab, 15, ah",2025-08-28 18:15:47
+SGEN,Unknown,0.0,1.0,0.0,0.0,1,0.00048192771084337347,"stock, million, madrigal, baker, common",2025-08-28 18:15:48
+XBI,SPDR S&P Biotech ETF,0.0,1.0,0.0,0.0,1,0.00048192771084337347,"stock, million, madrigal, baker, common",2025-08-28 18:15:48
+PFE,Pfizer Inc.,0.0,1.0,0.0,0.0,1,0.00048192771084337347,"stock, million, madrigal, baker, common",2025-08-28 18:15:49
+BMY,Bristol-Myers Squibb Company,0.0,1.0,0.0,0.0,1,0.00048192771084337347,"stock, million, madrigal, baker, common",2025-08-28 18:15:49
+MRK,"Merck & Co., Inc.",0.0,1.0,0.0,0.0,1,0.00048192771084337347,"stock, million, madrigal, baker, common",2025-08-28 18:15:49
+CELC,Celcuity Inc.,0.0,1.0,0.0,0.0,1,0.00048192771084337347,"stock, million, madrigal, baker, common",2025-08-28 18:15:50
+VXX,iPath Series B S&P 500 VIX Short-Term Futures ETN,0.0,1.0,0.0,0.0,1,0.00048192771084337347,"polymarket, prices, 25, odds, cut",2025-08-28 18:15:50
+HOOD,"Robinhood Markets, Inc.",0.0,1.0,0.0,0.0,1,0.00048192771084337347,"polymarket, prices, 25, odds, cut",2025-08-28 18:15:51
+BULL,Webull Corporation,0.0,1.0,0.0,0.0,1,0.00048192771084337347,"show, earnings, im, come, biggest",2025-08-28 18:15:51
+RGTI,"Rigetti Computing, Inc.",0.0,1.0,0.0,0.0,1,0.00048192771084337347,"50, assigned, exactly, strike, 15",2025-08-28 18:15:52
+QBTS,D-Wave Quantum Inc.,0.0,1.0,0.0,0.0,1,0.00048192771084337347,"skyt, quantum, jan, 2026, small",2025-08-28 18:15:52
+FLY,Firefly Aerospace Inc.,0.0,1.0,0.0,0.0,1,0.00048192771084337347,"puts, fly, end, ipo, day",2025-08-28 18:15:52
+SLS,"SELLAS Life Sciences Group, Inc.",0.0,1.0,0.0,0.0,1,0.00048192771084337347,"sls, call, volume, something, stock",2025-08-28 18:15:53
+TER,"Teradyne, Inc.",0.0,1.0,0.0,0.0,1,0.00048192771084337347,"ai, teradyne, chip, testing, chips",2025-08-28 18:15:53
+TH,Target Hospitality Corp.,0.0,1.0,0.0,0.0,1,0.00048262548262548264,"th, critical, minerals, contract, ai",2025-08-28 18:24:06
+UNH,UnitedHealth Group Incorporated,0.26666666666666666,0.6666666666666666,0.06666666666666667,0.16,15,0.00723938223938224,"unh, revenue, pt, q, ai",2025-08-28 18:24:07
+XXXXX,Unknown,0.0,1.0,0.0,0.0,16,0.007722007722007722,"wiki, investing, https, www, reddit",2025-08-28 18:24:11
+NVDA,NVIDIA Corporation,0.1111111111111111,0.8888888888888888,0.0,0.058823529411764705,9,0.004343629343629344,"revenue, ai, nvda, pt, 6",2025-08-28 18:24:12
+ROOT,"Root, Inc.",0.0,1.0,0.0,0.0,2,0.0009652509652509653,"root, market, progressive, name, stock",2025-08-28 18:24:13
+OPEN,Opendoor Technologies Inc.,0.125,0.875,0.0,0.06666666666666667,8,0.003861003861003861,"https, open, com, finviz, quote",2025-08-28 18:24:14
+CRWV,"CoreWeave, Inc.",0.16666666666666666,0.8333333333333334,0.0,0.0909090909090909,6,0.0028957528957528956,"coreweave, crwv, inference, stock, ai",2025-08-28 18:24:15
+MSFT,Microsoft Corporation,0.0,1.0,0.0,0.0,6,0.0028957528957528956,"msft, increased, stake, stock, earnings",2025-08-28 18:24:16
+GOOGL,Alphabet Inc.,0.5,0.5,0.0,0.3333333333333333,4,0.0019305019305019305,"google, ai, cloud, googl, hpc",2025-08-28 18:24:16
+META,"Meta Platforms, Inc.",0.0,1.0,0.0,0.0,5,0.002413127413127413,"meta, data, https, www, sec",2025-08-28 18:24:17
+NVO,Novo Nordisk A/S,0.2,0.8,0.0,0.11111111111111112,5,0.002413127413127413,"stock, million, nvo, mash, 1",2025-08-28 18:24:18
+PLTR,Palantir Technologies Inc.,0.6,0.2,0.2,0.5,5,0.002413127413127413,"revenue, 2, pt, ai, q",2025-08-28 18:24:19
+AAPL,Apple Inc.,0.0,1.0,0.0,0.0,1,0.00048262548262548264,"price, aapl, chart, https, www",2025-08-28 18:24:19
+AMD,"Advanced Micro Devices, Inc.",0.0,1.0,0.0,0.0,4,0.0019305019305019305,"market, 6, august, stock, rose",2025-08-28 18:24:20
+MDGL,"Madrigal Pharmaceuticals, Inc.",0.0,1.0,0.0,0.0,2,0.0009652509652509653,"stock, madrigal, million, 1, mdgl",2025-08-28 18:24:20
+SPY,SPDR S&P 500 ETF,0.0,1.0,0.0,0.0,4,0.0019305019305019305,"monthly, spy, pullback, year, held",2025-08-28 18:24:21
+IQ,"iQIYI, Inc.",0.0,1.0,0.0,0.0,1,0.00048262548262548264,"content, domestic, iq, rumored, dramas",2025-08-28 18:24:22
+INTC,Intel Corporation,0.25,0.75,0.0,0.14285714285714285,4,0.0019305019305019305,"revenue, pt, ai, q, growth",2025-08-28 18:24:22
+SAMPL,Unknown,0.0,1.0,0.0,0.0,1,0.00048262548262548264,"sell, 180, options, around, position",2025-08-28 18:24:23
+QS,QuantumScape Corporation,0.0,1.0,0.0,0.0,1,0.00048262548262548264,"qs, term, short, hold, need",2025-08-28 18:24:24
+CVX,Chevron Corporation,0.0,1.0,0.0,0.0,1,0.00048262548262548264,"data, energy, power, centers, ai",2025-08-28 18:24:24
+BE,Bloom Energy Corporation,0.0,1.0,0.0,0.0,1,0.00048262548262548264,"data, energy, power, centers, ai",2025-08-28 18:24:25
+LULU,lululemon athletica inc.,0.0,1.0,0.0,0.0,1,0.00048262548262548264,"lulu, undervalued, international, growth, china",2025-08-28 18:24:25
+AMZN,"Amazon.com, Inc.",0.3333333333333333,0.6666666666666666,0.0,0.2,3,0.0014478764478764478,"increased, stake, day, amzn, anyone",2025-08-28 18:24:26
+ORCL,Oracle Corporation,0.0,1.0,0.0,0.0,2,0.0009652509652509653,"increased, stake, orcl, oscr, institutional",2025-08-28 18:24:26
+AIFU,AIFU Inc.,0.0,1.0,0.0,0.0,3,0.0014478764478764478,"increased, stake, aifu, also, nvda",2025-08-28 18:24:27
+NBIS,Unknown,0.0,1.0,0.0,0.0,3,0.0014478764478764478,"ai, nebius, salesforce, training, market",2025-08-28 18:24:27
+RDDT,"Reddit, Inc.",0.5,0.5,0.0,0.3333333333333333,2,0.0009652509652509653,"reddit, search, still, rddt, png",2025-08-28 18:24:28
+SNAP,Snap Inc.,0.0,1.0,0.0,0.0,2,0.0009652509652509653,"revenue, financial, advice, snap, ai",2025-08-28 18:24:28
+PSKY,Paramount Skydance Corporation,0.0,1.0,0.0,0.0,3,0.0014478764478764478,"psky, yolo, captain, crayola, taken",2025-08-28 18:24:29
+GRAB,Grab Holdings Limited,1.0,0.0,0.0,1.0,2,0.0009652509652509653,"grab, 11k, yolo, money, valued",2025-08-28 18:24:29
+TMDX,"TransMedics Group, Inc.",0.0,1.0,0.0,0.0,1,0.00048262548262548264,"tmdx, two, monopoly, know, earnings",2025-08-28 18:24:30
+SRPT,"Sarepta Therapeutics, Inc.",0.3333333333333333,0.6666666666666666,0.0,0.2,3,0.0014478764478764478,"stock, million, madrigal, 1, baker",2025-08-28 18:24:30
+SBET,"SharpLink Gaming, Inc.",0.0,1.0,0.0,0.0,3,0.0014478764478764478,"eth, sbet, mnav, etha, 1",2025-08-28 18:24:31
+O,Realty Income Corporation,0.2,0.8,0.0,0.11111111111111112,20,0.009652509652509652,"https, com, energy, open, stock",2025-08-28 18:24:33
+SMR,NuScale Power Corporation,0.5,0.5,0.0,0.3333333333333333,2,0.0009652509652509653,"nuclear, company, haleu, isotopes, asp",2025-08-28 18:24:33
+RUN,Sunrun Inc.,0.0,1.0,0.0,0.0,2,0.0009652509652509653,"solar, power, trump, wind, projects",2025-08-28 18:24:34
+OXY,Occidental Petroleum Corporation,0.0,1.0,0.0,0.0,1,0.00048262548262548264,"data, energy, power, centers, ai",2025-08-28 18:24:35
+MP,MP Materials Corp.,0.0,1.0,0.0,0.0,1,0.00048262548262548264,"data, energy, power, centers, ai",2025-08-28 18:24:35
+ORR,Militia Long/Short Equity ETF,1.0,0.0,0.0,1.0,1,0.00048262548262548264,"long, orr, short, etf, day",2025-08-28 18:24:36
+APLD,Applied Digital Corporation,0.0,1.0,0.0,0.0,2,0.0009652509652509653,"apld, ai, power, per, mw",2025-08-28 18:24:36
+OSCR,"Oscar Health, Inc.",0.0,1.0,0.0,0.0,2,0.0009652509652509653,"increased, stake, oscr, unh, institutional",2025-08-28 18:24:37
+SOFI,"SoFi Technologies, Inc.",0.0,1.0,0.0,0.0,2,0.0009652509652509653,"long, sofi, sell, managed, actually",2025-08-28 18:24:37
+KIEV,Unknown,0.0,1.0,0.0,0.0,1,0.00048262548262548264,"th, critical, minerals, contract, ai",2025-08-28 18:24:38
+ONDS,Ondas Holdings Inc.,0.0,1.0,0.0,0.0,2,0.0009652509652509653,"onds, yolo, 2, 4k, 5",2025-08-28 18:24:38
+FN,Fabrinet,0.5,0.5,0.0,0.3333333333333333,2,0.0009652509652509653,"week, fn, everything, good, far",2025-08-28 18:24:39
+BITF,Bitfarms Ltd.,1.0,0.0,0.0,1.0,1,0.00048262548262548264,"ai, hpc, bitfarms, high, performance",2025-08-28 18:24:39
+WULF,TeraWulf Inc.,0.5,0.5,0.0,0.3333333333333333,2,0.0009652509652509653,"ai, hpc, bitfarms, high, performance",2025-08-28 18:24:40
+PL,Planet Labs PBC,0.42857142857142855,0.42857142857142855,0.14285714285714285,0.3,7,0.0033783783783783786,"revenue, 2, 1, pt, ai",2025-08-28 18:24:41
+RKLB,Rocket Lab Corporation,0.5,0.5,0.0,0.3333333333333333,2,0.0009652509652509653,"rklb, calls, electron, 45, call",2025-08-28 18:24:41
+MER,Meren Energy Inc.,0.0,1.0,0.0,0.0,1,0.00048262548262548264,"company, meren, oil, production, cash",2025-08-28 18:24:42
+HUT,Hut 8 Corp.,0.0,1.0,0.0,0.0,1,0.00048262548262548264,"abtc, hut8, play, hut, btc",2025-08-28 18:24:42
+NIO,NIO Inc.,0.5,0.5,0.0,0.3333333333333333,2,0.0009652509652509653,"revenue, pt, q, ai, buy",2025-08-28 18:24:43
+AEO,"American Eagle Outfitters, Inc.",0.5,0.5,0.0,0.3333333333333333,2,0.0009652509652509653,"tmdx, aeo, sydney, sweeney, two",2025-08-28 18:24:43
+LLY,Eli Lilly and Company,0.0,1.0,0.0,0.0,2,0.0009652509652509653,"tmdx, lly, two, monopoly, know",2025-08-28 18:24:44
+COIN,"Coinbase Global, Inc.",1.0,0.0,0.0,1.0,1,0.00048262548262548264,"conl, coin, 2x, yolo, bought",2025-08-28 18:24:45
+PATH,UiPath Inc.,0.0,1.0,0.0,0.0,1,0.00048262548262548264,"uipath, ai, microsoft, like, arr",2025-08-28 18:24:45
+ANF,Abercrombie & Fitch Co.,1.0,0.0,0.0,1.0,1,0.00048262548262548264,"hollister, earnings, anf, abercrombie, school",2025-08-28 18:24:46
+ASPI,ASP Isotopes Inc.,0.0,1.0,0.0,0.0,1,0.00048262548262548264,"company, haleu, isotopes, nuclear, asp",2025-08-28 18:24:46
+OKLO,Oklo Inc.,0.5,0.5,0.0,0.3333333333333333,2,0.0009652509652509653,"company, haleu, nuclear, isotopes, asp",2025-08-28 18:24:47
+KO,The Coca-Cola Company,1.0,0.0,0.0,1.0,1,0.00048262548262548264,"ko, bull, thesis, looking, coca",2025-08-28 18:24:47
+IONQ,"IonQ, Inc.",0.0,1.0,0.0,0.0,2,0.0009652509652509653,"skyt, quantum, insiders, also, ionq",2025-08-28 18:24:48
+TSLA,"Tesla, Inc.",0.0,1.0,0.0,0.0,2,0.0009652509652509653,"_, billion, tesla, per, tsla",2025-08-28 18:24:48
+GILD,"Gilead Sciences, Inc.",0.0,1.0,0.0,0.0,1,0.00048262548262548264,"mash, gilead, drops, novo, gild",2025-08-28 18:24:49
+BGM,BGM Group Ltd.,0.0,1.0,0.0,0.0,2,0.0009652509652509653,"msft, bgm, astera, labs, alab",2025-08-28 18:24:49
+QQQ,Invesco QQQ Trust,0.0,1.0,0.0,0.0,2,0.0009652509652509653,"cut, fed, qqq, spy, msft",2025-08-28 18:24:50
+TWLO,Twilio Inc.,0.0,1.0,0.0,0.0,1,0.00048262548262548264,"twlo, thoughts, earnings, month, 1",2025-08-28 18:24:50
+ET,Energy Transfer LP,0.0,1.0,0.0,0.0,1,0.00048262548262548264,"thinking, buy, pooping, et, got",2025-08-28 18:24:50
+ASTS,"AST SpaceMobile, Inc.",0.0,1.0,0.0,0.0,1,0.00048262548262548264,"move, implied, earnings, asts, options",2025-08-28 18:24:51
+CAR,"Avis Budget Group, Inc.",0.0,1.0,0.0,0.0,1,0.00048262548262548264,"car, dip, call, trading, want",2025-08-28 18:24:51
+FIG,"Figma, Inc.",0.0,1.0,0.0,0.0,2,0.0009652509652509653,"ipo, fig, figma, options, later",2025-08-28 18:24:52
+QIMC,Unknown,1.0,0.0,0.0,1.0,1,0.00048262548262548264,"hydrogen, energy, canada, natural, funding",2025-08-28 18:24:52
+ACHR,Archer Aviation Inc.,0.0,1.0,0.0,0.0,1,0.00048262548262548264,"9, achr, still, yet, 30",2025-08-28 18:24:53
+JOBY,"Joby Aviation, Inc.",0.0,1.0,0.0,0.0,1,0.00048262548262548264,"ohio, joby, aviation, promised, 2",2025-08-28 18:24:53
+FSLR,"First Solar, Inc.",0.0,1.0,0.0,0.0,1,0.00048262548262548264,"solar, power, trump, wind, projects",2025-08-28 18:24:54
+NXDR,Unknown,0.0,1.0,0.0,0.0,1,0.00048262548262548264,"nextdoor, growth, ads, ad, app",2025-08-28 18:24:54
+NFLX,"Netflix, Inc.",0.0,1.0,0.0,0.0,1,0.00048262548262548264,"increased, stake, oscr, institutional, ownership",2025-08-28 18:24:55
+ARM,Arm Holdings plc,0.0,1.0,0.0,0.0,1,0.00048262548262548264,"increased, stake, oscr, institutional, ownership",2025-08-28 18:24:55
+DHI,"D.R. Horton, Inc.",0.0,1.0,0.0,0.0,1,0.00048262548262548264,"increased, stake, oscr, institutional, ownership",2025-08-28 18:24:56
+LEN,Lennar Corporation,0.0,1.0,0.0,0.0,1,0.00048262548262548264,"increased, stake, oscr, institutional, ownership",2025-08-28 18:24:56
+NUE,Nucor Corporation,0.0,1.0,0.0,0.0,1,0.00048262548262548264,"increased, stake, oscr, institutional, ownership",2025-08-28 18:24:57
+INOD,Innodata Inc.,0.0,1.0,0.0,0.0,1,0.00048262548262548264,"companies, innodata, company, ai, quarter",2025-08-28 18:24:57
+BROS,Dutch Bros Inc.,0.0,1.0,0.0,0.0,1,0.00048262548262548264,"companies, innodata, company, ai, quarter",2025-08-28 18:24:58
+SFTBY,SoftBank Group Corp.,1.0,0.0,0.0,1.0,1,0.00048262548262548264,"softbank, sftby, owned, stock, long",2025-08-28 18:24:58
+RCAT,"Red Cat Holdings, Inc.",0.0,1.0,0.0,0.0,1,0.00048262548262548264,"fuzzy, panda, expose, rcat, subject",2025-08-28 18:24:58
+RY,Royal Bank of Canada,0.0,1.0,0.0,0.0,1,0.00048262548262548264,"canadian, banks, ry, 10x, kick",2025-08-28 18:24:59
+NAK,Northern Dynasty Minerals Ltd.,1.0,0.0,0.0,1.0,1,0.00048262548262548264,"collect, knick, naks, want, put",2025-08-28 18:24:59
+MDB,"MongoDB, Inc.",0.0,1.0,0.0,0.0,1,0.00048262548262548264,"blah, snow, png, dd, mdb",2025-08-28 18:25:00
+SNOW,Snowflake Inc.,0.0,1.0,0.0,0.0,1,0.00048262548262548264,"blah, snow, png, dd, mdb",2025-08-28 18:25:00
+UUUU,Energy Fuels Inc.,1.0,0.0,0.0,1.0,1,0.00048262548262548264,"uuuu, 10k, mining, stocks, getting",2025-08-28 18:25:01
+UPST,"Upstart Holdings, Inc.",0.0,1.0,0.0,0.0,1,0.00048262548262548264,"tmdx, two, monopoly, know, earnings",2025-08-28 18:25:01
+CSIQ,Canadian Solar Inc.,0.0,1.0,0.0,0.0,1,0.00048262548262548264,"china, solar, csiq, puts, gain",2025-08-28 18:25:02
+CONL,GraniteShares 2x Long COIN Daily ETF,1.0,0.0,0.0,1.0,1,0.00048262548262548264,"conl, coin, 2x, yolo, bought",2025-08-28 18:25:02
+TGT,Target Corporation,0.0,1.0,0.0,0.0,1,0.00048262548262548264,"line, target, self, checkout, mins",2025-08-28 18:25:02
+WMT,Walmart Inc.,0.0,1.0,0.0,0.0,1,0.00048262548262548264,"line, target, self, checkout, mins",2025-08-28 18:25:03
+VKTX,"Viking Therapeutics, Inc.",0.0,1.0,0.0,0.0,1,0.00048262548262548264,"caught, knife, played, bounce, vktx",2025-08-28 18:25:03
+GLXY,Galaxy Digital,0.0,1.0,0.0,0.0,1,0.00048262548262548264,"glxy, bags, feeling, extra, heavy",2025-08-28 18:25:04
+W,Wayfair Inc.,0.2,0.8,0.0,0.11111111111111112,5,0.002413127413127413,"ai, billion, hpc, computing, google",2025-08-28 18:25:04
+BLSH,Bullish,0.0,1.0,0.0,0.0,1,0.00048262548262548264,"blsh, bullshit, ipo, told, shit",2025-08-28 18:25:05
+PACS,"PACS Group, Inc.",0.0,1.0,0.0,0.0,1,0.00048262548262548264,"pacs, https, com, still, facilities",2025-08-28 18:25:05
+ENSG,"The Ensign Group, Inc.",0.0,1.0,0.0,0.0,1,0.00048262548262548264,"pacs, https, com, still, facilities",2025-08-28 18:25:06
+NUVB,Nuvation Bio Inc.,0.0,1.0,0.0,0.0,1,0.00048262548262548264,"pacs, https, com, still, facilities",2025-08-28 18:25:06
+RBLX,Roblox Corporation,0.0,1.0,0.0,0.0,1,0.00048262548262548264,"nice, little, rblx, play, buying",2025-08-28 18:25:07
+R,"Ryder System, Inc.",0.15384615384615385,0.8461538461538461,0.0,0.08333333333333333,13,0.006274131274131274,"reddit, root, solar, ai, still",2025-08-28 18:25:08
+AMBQ,Unknown,0.0,1.0,0.0,0.0,1,0.00048262548262548264,"ai, company, earnings, wearables, like",2025-08-28 18:25:09
+MSOS,AdvisorShares Pure US Cannabis ETF,0.0,1.0,0.0,0.0,1,0.00048262548262548264,"msos, otm, calls, cannabis, rescheduling",2025-08-28 18:25:10
+GOOG,Alphabet Inc.,0.5,0.5,0.0,0.3333333333333333,4,0.0019305019305019305,"google, ai, cloud, googl, hpc",2025-08-28 18:25:10
+TTD,"The Trade Desk, Inc.",0.0,1.0,0.0,0.0,1,0.00048262548262548264,"dip, ttd, bought, kept, dipping",2025-08-28 18:25:11
+PONY,Pony AI Inc.,0.0,1.0,0.0,0.0,1,0.00048262548262548264,"wrd, 6, end, looking, primed",2025-08-28 18:25:11
+WRD,WeRide Inc.,0.0,1.0,0.0,0.0,1,0.00048262548262548264,"wrd, 6, end, looking, primed",2025-08-28 18:25:12
+NVT,nVent Electric plc,0.0,1.0,0.0,0.0,1,0.00048262548262548264,"ai, nvt, glw, infrastructure, names",2025-08-28 18:25:12
+GLW,Corning Incorporated,0.0,1.0,0.0,0.0,1,0.00048262548262548264,"ai, nvt, glw, infrastructure, names",2025-08-28 18:25:13
+LEU,Centrus Energy Corp.,1.0,0.0,0.0,1.0,1,0.00048262548262548264,"nuclear, energy, looking, sector, clean",2025-08-28 18:25:13
+CEG,Constellation Energy Corporation,1.0,0.0,0.0,1.0,1,0.00048262548262548264,"nuclear, energy, looking, sector, clean",2025-08-28 18:25:14
+NNE,NANO Nuclear Energy Inc.,1.0,0.0,0.0,1.0,1,0.00048262548262548264,"nuclear, energy, looking, sector, clean",2025-08-28 18:25:14
+IRA,Unknown,0.0,1.0,0.0,0.0,1,0.00048262548262548264,"advisor, personal, account, retirement, plus",2025-08-28 18:25:15
+ASML,ASML Holding N.V.,1.0,0.0,0.0,1.0,1,0.00048262548262548264,"us, ex, companies, markets, dividend",2025-08-28 18:25:15
+VOO,Vanguard S&P 500 ETF,0.0,1.0,0.0,0.0,1,0.00048262548262548264,"held, stress, 4, year, tesla",2025-08-28 18:25:15
+B,Unknown,0.1111111111111111,0.8888888888888888,0.0,0.058823529411764705,9,0.004343629343629344,"company, ai, stock, data, energy",2025-08-28 18:25:17
+LXRX,"Lexicon Pharmaceuticals, Inc.",0.0,1.0,0.0,0.0,1,0.00048262548262548264,"diabetes, drug, pain, phase, novo",2025-08-28 18:25:17
+TSM,Taiwan Semiconductor Manufacturing Company Limited,0.0,1.0,0.0,0.0,1,0.00048262548262548264,"ai, amd, especially, getting, bubble",2025-08-28 18:25:18
+MRVL,"Marvell Technology, Inc.",0.0,1.0,0.0,0.0,1,0.00048262548262548264,"revenue, pt, q, ai, buy",2025-08-28 18:25:18
+MAAS,Maase Inc.,0.0,1.0,0.0,0.0,1,0.00048262548262548264,"revenue, pt, q, ai, buy",2025-08-28 18:25:19
+AZTR,"Azitra, Inc.",0.0,1.0,0.0,0.0,1,0.00048262548262548264,"revenue, pt, q, ai, buy",2025-08-28 18:25:19
+SPOK,"Spok Holdings, Inc.",0.0,1.0,0.0,0.0,1,0.00048262548262548264,"spok, 0, vs, dividend, value",2025-08-28 18:25:20
+NUV,"Nuveen Municipal Value Fund, Inc.",0.0,1.0,0.0,0.0,2,0.0009652509652509653,"pacs, https, com, still, facilities",2025-08-28 18:25:20
+OVLY,Oak Valley Bancorp,0.0,1.0,0.0,0.0,1,0.00048262548262548264,"insiders, eli, lilly, lly, bought",2025-08-28 18:25:21
+UBFO,United Security Bancshares,0.0,1.0,0.0,0.0,1,0.00048262548262548264,"insiders, eli, lilly, lly, bought",2025-08-28 18:25:21
+KSS,Kohl's Corporation,0.0,1.0,0.0,0.0,1,0.00048262548262548264,"gamma, still, july, could, kohl",2025-08-28 18:25:22
+SMCI,"Super Micro Computer, Inc.",1.0,0.0,0.0,1.0,1,0.00048262548262548264,"still, ai, stocks, fairly, growth",2025-08-28 18:25:22
+ALAB,"Astera Labs, Inc.",0.0,1.0,0.0,0.0,1,0.00048262548262548264,"astera, labs, alab, 15, ah",2025-08-28 18:25:23
+SGEN,Unknown,0.0,1.0,0.0,0.0,1,0.00048262548262548264,"stock, million, madrigal, baker, common",2025-08-28 18:25:23
+XBI,SPDR S&P Biotech ETF,0.0,1.0,0.0,0.0,1,0.00048262548262548264,"stock, million, madrigal, baker, common",2025-08-28 18:25:24
+PFE,Pfizer Inc.,0.0,1.0,0.0,0.0,1,0.00048262548262548264,"stock, million, madrigal, baker, common",2025-08-28 18:25:24
+BMY,Bristol-Myers Squibb Company,0.0,1.0,0.0,0.0,1,0.00048262548262548264,"stock, million, madrigal, baker, common",2025-08-28 18:25:25
+MRK,"Merck & Co., Inc.",0.0,1.0,0.0,0.0,1,0.00048262548262548264,"stock, million, madrigal, baker, common",2025-08-28 18:25:25
+CELC,Celcuity Inc.,0.0,1.0,0.0,0.0,1,0.00048262548262548264,"stock, million, madrigal, baker, common",2025-08-28 18:25:26
+VXX,iPath Series B S&P 500 VIX Short-Term Futures ETN,0.0,1.0,0.0,0.0,1,0.00048262548262548264,"polymarket, prices, 25, odds, cut",2025-08-28 18:25:26
+HOOD,"Robinhood Markets, Inc.",0.0,1.0,0.0,0.0,1,0.00048262548262548264,"polymarket, prices, 25, odds, cut",2025-08-28 18:25:27
+BULL,Webull Corporation,0.0,1.0,0.0,0.0,1,0.00048262548262548264,"show, earnings, im, come, biggest",2025-08-28 18:25:27
+RGTI,"Rigetti Computing, Inc.",0.0,1.0,0.0,0.0,1,0.00048262548262548264,"50, assigned, exactly, strike, 15",2025-08-28 18:25:28
+QBTS,D-Wave Quantum Inc.,0.0,1.0,0.0,0.0,1,0.00048262548262548264,"skyt, quantum, jan, 2026, small",2025-08-28 18:25:28
+FLY,Firefly Aerospace Inc.,0.0,1.0,0.0,0.0,1,0.00048262548262548264,"puts, fly, end, ipo, day",2025-08-28 18:25:29
+SLS,"SELLAS Life Sciences Group, Inc.",0.0,1.0,0.0,0.0,1,0.00048262548262548264,"sls, call, volume, something, stock",2025-08-28 18:25:29
+TER,"Teradyne, Inc.",0.0,1.0,0.0,0.0,1,0.00048262548262548264,"ai, teradyne, chip, testing, chips",2025-08-28 18:25:29
+TH,Target Hospitality Corp.,0.0,1.0,0.0,0.0,1,0.0004816955684007707,"th, critical, minerals, contract, ai",2025-08-28 20:11:36
+UNH,UnitedHealth Group Incorporated,0.26666666666666666,0.6666666666666666,0.06666666666666667,0.16,15,0.0072254335260115606,"unh, revenue, pt, q, ai",2025-08-28 20:11:38
+XXXXX,Unknown,0.0,1.0,0.0,0.0,16,0.007707129094412331,"wiki, investing, https, www, reddit",2025-08-28 20:11:41
+NVDA,NVIDIA Corporation,0.1111111111111111,0.8888888888888888,0.0,0.058823529411764705,9,0.004335260115606936,"revenue, ai, nvda, pt, 6",2025-08-28 20:11:42
+OPEN,Opendoor Technologies Inc.,0.1111111111111111,0.8888888888888888,0.0,0.058823529411764705,9,0.004335260115606936,"https, open, com, finviz, quote",2025-08-28 20:11:43
+ROOT,"Root, Inc.",0.0,1.0,0.0,0.0,2,0.0009633911368015414,"root, market, progressive, name, stock",2025-08-28 20:11:44
+CRWV,"CoreWeave, Inc.",0.16666666666666666,0.8333333333333334,0.0,0.0909090909090909,6,0.002890173410404624,"coreweave, crwv, inference, stock, ai",2025-08-28 20:11:45
+MSFT,Microsoft Corporation,0.0,1.0,0.0,0.0,6,0.002890173410404624,"msft, increased, stake, stock, earnings",2025-08-28 20:11:46
+GOOGL,Alphabet Inc.,0.5,0.5,0.0,0.3333333333333333,4,0.0019267822736030828,"google, ai, cloud, googl, hpc",2025-08-28 20:11:47
+PLTR,Palantir Technologies Inc.,0.5,0.3333333333333333,0.16666666666666666,0.375,6,0.002890173410404624,"revenue, 2, pt, ai, q",2025-08-28 20:11:48
+META,"Meta Platforms, Inc.",0.0,1.0,0.0,0.0,5,0.0024084778420038534,"meta, data, https, www, sec",2025-08-28 20:11:48
+NVO,Novo Nordisk A/S,0.2,0.8,0.0,0.11111111111111112,5,0.0024084778420038534,"stock, million, nvo, mash, 1",2025-08-28 20:11:49
+AAPL,Apple Inc.,0.0,1.0,0.0,0.0,1,0.0004816955684007707,"price, aapl, chart, https, www",2025-08-28 20:11:49
+AMD,"Advanced Micro Devices, Inc.",0.0,1.0,0.0,0.0,4,0.0019267822736030828,"market, 6, august, stock, rose",2025-08-28 20:11:50
+MDGL,"Madrigal Pharmaceuticals, Inc.",0.0,1.0,0.0,0.0,2,0.0009633911368015414,"stock, madrigal, million, 1, mdgl",2025-08-28 20:11:51
+SPY,SPDR S&P 500 ETF,0.0,1.0,0.0,0.0,4,0.0019267822736030828,"monthly, spy, pullback, year, held",2025-08-28 20:11:51
+IQ,"iQIYI, Inc.",0.0,1.0,0.0,0.0,1,0.0004816955684007707,"content, domestic, iq, rumored, dramas",2025-08-28 20:11:52
+INTC,Intel Corporation,0.25,0.75,0.0,0.14285714285714285,4,0.0019267822736030828,"revenue, pt, ai, q, growth",2025-08-28 20:11:52
+SAMPL,Unknown,0.0,1.0,0.0,0.0,1,0.0004816955684007707,"sell, 180, options, around, position",2025-08-28 20:11:53
+QS,QuantumScape Corporation,0.0,1.0,0.0,0.0,1,0.0004816955684007707,"qs, term, short, hold, need",2025-08-28 20:11:54
+CVX,Chevron Corporation,0.0,1.0,0.0,0.0,1,0.0004816955684007707,"data, energy, power, centers, ai",2025-08-28 20:11:54
+BE,Bloom Energy Corporation,0.0,1.0,0.0,0.0,1,0.0004816955684007707,"data, energy, power, centers, ai",2025-08-28 20:11:55
+LULU,lululemon athletica inc.,0.0,1.0,0.0,0.0,1,0.0004816955684007707,"lulu, undervalued, international, growth, china",2025-08-28 20:11:55
+AMZN,"Amazon.com, Inc.",0.3333333333333333,0.6666666666666666,0.0,0.2,3,0.001445086705202312,"increased, stake, day, amzn, anyone",2025-08-28 20:11:56
+ORCL,Oracle Corporation,0.0,1.0,0.0,0.0,2,0.0009633911368015414,"increased, stake, orcl, oscr, institutional",2025-08-28 20:11:56
+AIFU,AIFU Inc.,0.0,1.0,0.0,0.0,3,0.001445086705202312,"increased, stake, aifu, also, nvda",2025-08-28 20:11:57
+NBIS,Unknown,0.0,1.0,0.0,0.0,3,0.001445086705202312,"ai, nebius, salesforce, training, market",2025-08-28 20:11:57
+RDDT,"Reddit, Inc.",0.5,0.5,0.0,0.3333333333333333,2,0.0009633911368015414,"reddit, search, still, rddt, png",2025-08-28 20:11:58
+SNOW,Snowflake Inc.,0.0,1.0,0.0,0.0,2,0.0009633911368015414,"blah, snow, luck, f, png",2025-08-28 20:11:59
+SNAP,Snap Inc.,0.0,1.0,0.0,0.0,2,0.0009633911368015414,"revenue, financial, advice, snap, ai",2025-08-28 20:11:59
+PSKY,Paramount Skydance Corporation,0.0,1.0,0.0,0.0,3,0.001445086705202312,"psky, yolo, captain, crayola, taken",2025-08-28 20:12:00
+NIO,NIO Inc.,0.3333333333333333,0.6666666666666666,0.0,0.2,3,0.001445086705202312,"revenue, pt, q, ai, buy",2025-08-28 20:12:00
+GRAB,Grab Holdings Limited,1.0,0.0,0.0,1.0,2,0.0009633911368015414,"grab, 11k, yolo, money, valued",2025-08-28 20:12:01
+TMDX,"TransMedics Group, Inc.",0.0,1.0,0.0,0.0,1,0.0004816955684007707,"tmdx, two, monopoly, know, earnings",2025-08-28 20:12:01
+SRPT,"Sarepta Therapeutics, Inc.",0.3333333333333333,0.6666666666666666,0.0,0.2,3,0.001445086705202312,"stock, million, madrigal, 1, baker",2025-08-28 20:12:02
+SBET,"SharpLink Gaming, Inc.",0.0,1.0,0.0,0.0,3,0.001445086705202312,"eth, sbet, mnav, etha, 1",2025-08-28 20:12:02
+O,Realty Income Corporation,0.2,0.8,0.0,0.11111111111111112,20,0.009633911368015413,"https, com, open, energy, stock",2025-08-28 20:12:04
+SMR,NuScale Power Corporation,0.5,0.5,0.0,0.3333333333333333,2,0.0009633911368015414,"nuclear, company, haleu, isotopes, asp",2025-08-28 20:12:05
+ACHR,Archer Aviation Inc.,0.0,1.0,0.0,0.0,2,0.0009633911368015414,"9, luck, achr, f, still",2025-08-28 20:12:05
+RUN,Sunrun Inc.,0.0,1.0,0.0,0.0,2,0.0009633911368015414,"solar, power, trump, wind, projects",2025-08-28 20:12:06
+OXY,Occidental Petroleum Corporation,0.0,1.0,0.0,0.0,1,0.0004816955684007707,"data, energy, power, centers, ai",2025-08-28 20:12:07
+MP,MP Materials Corp.,0.0,1.0,0.0,0.0,1,0.0004816955684007707,"data, energy, power, centers, ai",2025-08-28 20:12:07
+ORR,Militia Long/Short Equity ETF,1.0,0.0,0.0,1.0,1,0.0004816955684007707,"long, orr, short, etf, day",2025-08-28 20:12:08
+APLD,Applied Digital Corporation,0.0,1.0,0.0,0.0,2,0.0009633911368015414,"apld, ai, power, per, mw",2025-08-28 20:12:08
+OSCR,"Oscar Health, Inc.",0.0,1.0,0.0,0.0,2,0.0009633911368015414,"increased, stake, oscr, unh, institutional",2025-08-28 20:12:09
+SOFI,"SoFi Technologies, Inc.",0.0,1.0,0.0,0.0,2,0.0009633911368015414,"long, sofi, sell, managed, actually",2025-08-28 20:12:09
+KIEV,Unknown,0.0,1.0,0.0,0.0,1,0.0004816955684007707,"th, critical, minerals, contract, ai",2025-08-28 20:12:10
+FN,Fabrinet,0.5,0.5,0.0,0.3333333333333333,2,0.0009633911368015414,"week, fn, everything, good, far",2025-08-28 20:12:11
+BITF,Bitfarms Ltd.,1.0,0.0,0.0,1.0,1,0.0004816955684007707,"ai, hpc, bitfarms, high, performance",2025-08-28 20:12:11
+WULF,TeraWulf Inc.,0.5,0.5,0.0,0.3333333333333333,2,0.0009633911368015414,"ai, hpc, bitfarms, high, performance",2025-08-28 20:12:12
+PL,Planet Labs PBC,0.375,0.5,0.125,0.25,8,0.0038535645472061657,"revenue, 2, 1, pt, ai",2025-08-28 20:12:13
+RKLB,Rocket Lab Corporation,0.5,0.5,0.0,0.3333333333333333,2,0.0009633911368015414,"rklb, calls, electron, 45, call",2025-08-28 20:12:14
+MER,Meren Energy Inc.,0.0,1.0,0.0,0.0,1,0.0004816955684007707,"company, meren, oil, production, cash",2025-08-28 20:12:14
+HUT,Hut 8 Corp.,0.0,1.0,0.0,0.0,1,0.0004816955684007707,"abtc, hut8, play, hut, btc",2025-08-28 20:12:15
+AEO,"American Eagle Outfitters, Inc.",0.5,0.5,0.0,0.3333333333333333,2,0.0009633911368015414,"tmdx, aeo, sydney, sweeney, two",2025-08-28 20:12:15
+LLY,Eli Lilly and Company,0.0,1.0,0.0,0.0,2,0.0009633911368015414,"tmdx, lly, two, monopoly, know",2025-08-28 20:12:16
+COIN,"Coinbase Global, Inc.",1.0,0.0,0.0,1.0,1,0.0004816955684007707,"conl, coin, 2x, yolo, bought",2025-08-28 20:12:16
+PATH,UiPath Inc.,0.0,1.0,0.0,0.0,1,0.0004816955684007707,"uipath, ai, microsoft, like, arr",2025-08-28 20:12:17
+ANF,Abercrombie & Fitch Co.,1.0,0.0,0.0,1.0,1,0.0004816955684007707,"hollister, earnings, anf, abercrombie, school",2025-08-28 20:12:17
+ASPI,ASP Isotopes Inc.,0.0,1.0,0.0,0.0,1,0.0004816955684007707,"company, haleu, isotopes, nuclear, asp",2025-08-28 20:12:18
+OKLO,Oklo Inc.,0.5,0.5,0.0,0.3333333333333333,2,0.0009633911368015414,"company, haleu, nuclear, isotopes, asp",2025-08-28 20:12:19
+KO,The Coca-Cola Company,1.0,0.0,0.0,1.0,1,0.0004816955684007707,"ko, bull, thesis, looking, coca",2025-08-28 20:12:19
+IONQ,"IonQ, Inc.",0.0,1.0,0.0,0.0,2,0.0009633911368015414,"skyt, quantum, insiders, also, ionq",2025-08-28 20:12:20
+TSLA,"Tesla, Inc.",0.0,1.0,0.0,0.0,2,0.0009633911368015414,"_, billion, tesla, per, tsla",2025-08-28 20:12:20
+GILD,"Gilead Sciences, Inc.",0.0,1.0,0.0,0.0,1,0.0004816955684007707,"mash, gilead, drops, novo, gild",2025-08-28 20:12:21
+BGM,BGM Group Ltd.,0.0,1.0,0.0,0.0,2,0.0009633911368015414,"msft, bgm, astera, labs, alab",2025-08-28 20:12:21
+QQQ,Invesco QQQ Trust,0.0,1.0,0.0,0.0,2,0.0009633911368015414,"cut, fed, qqq, spy, msft",2025-08-28 20:12:21
+BULL,Webull Corporation,0.0,1.0,0.0,0.0,2,0.0009633911368015414,"er, earnings, week, cost, bought",2025-08-28 20:12:22
+TWLO,Twilio Inc.,0.0,1.0,0.0,0.0,1,0.0004816955684007707,"twlo, thoughts, earnings, month, 1",2025-08-28 20:12:22
+ET,Energy Transfer LP,0.0,1.0,0.0,0.0,1,0.0004816955684007707,"thinking, buy, pooping, et, got",2025-08-28 20:12:23
+ASTS,"AST SpaceMobile, Inc.",0.0,1.0,0.0,0.0,1,0.0004816955684007707,"move, implied, earnings, asts, options",2025-08-28 20:12:23
+CAR,"Avis Budget Group, Inc.",0.0,1.0,0.0,0.0,1,0.0004816955684007707,"car, dip, call, trading, want",2025-08-28 20:12:24
+FIG,"Figma, Inc.",0.0,1.0,0.0,0.0,2,0.0009633911368015414,"ipo, fig, figma, options, later",2025-08-28 20:12:24
+JOBY,"Joby Aviation, Inc.",0.0,1.0,0.0,0.0,1,0.0004816955684007707,"ohio, joby, aviation, promised, 2",2025-08-28 20:12:25
+FSLR,"First Solar, Inc.",0.0,1.0,0.0,0.0,1,0.0004816955684007707,"solar, power, trump, wind, projects",2025-08-28 20:12:25
+NXDR,Unknown,0.0,1.0,0.0,0.0,1,0.0004816955684007707,"nextdoor, growth, ads, ad, app",2025-08-28 20:12:26
+NFLX,"Netflix, Inc.",0.0,1.0,0.0,0.0,1,0.0004816955684007707,"increased, stake, oscr, institutional, ownership",2025-08-28 20:12:26
+ARM,Arm Holdings plc,0.0,1.0,0.0,0.0,1,0.0004816955684007707,"increased, stake, oscr, institutional, ownership",2025-08-28 20:12:26
+DHI,"D.R. Horton, Inc.",0.0,1.0,0.0,0.0,1,0.0004816955684007707,"increased, stake, oscr, institutional, ownership",2025-08-28 20:12:27
+LEN,Lennar Corporation,0.0,1.0,0.0,0.0,1,0.0004816955684007707,"increased, stake, oscr, institutional, ownership",2025-08-28 20:12:27
+NUE,Nucor Corporation,0.0,1.0,0.0,0.0,1,0.0004816955684007707,"increased, stake, oscr, institutional, ownership",2025-08-28 20:12:28
+INOD,Innodata Inc.,0.0,1.0,0.0,0.0,1,0.0004816955684007707,"companies, innodata, company, ai, quarter",2025-08-28 20:12:28
+BROS,Dutch Bros Inc.,0.0,1.0,0.0,0.0,1,0.0004816955684007707,"companies, innodata, company, ai, quarter",2025-08-28 20:12:29
+SFTBY,SoftBank Group Corp.,1.0,0.0,0.0,1.0,1,0.0004816955684007707,"softbank, sftby, owned, stock, long",2025-08-28 20:12:29
+RCAT,"Red Cat Holdings, Inc.",0.0,1.0,0.0,0.0,1,0.0004816955684007707,"fuzzy, panda, expose, rcat, subject",2025-08-28 20:12:30
+CGC,Canopy Growth Corporation,0.0,1.0,0.0,0.0,1,0.0004816955684007707,"cgc, yolo, last, 20k, lose",2025-08-28 20:12:30
+SHOP,Shopify Inc.,0.0,1.0,0.0,0.0,1,0.0004816955684007707,"luck, f, instead, everything, king",2025-08-28 20:12:31
+SOUN,"SoundHound AI, Inc.",0.0,1.0,0.0,0.0,1,0.0004816955684007707,"luck, f, instead, everything, king",2025-08-28 20:12:31
+PANW,"Palo Alto Networks, Inc.",0.0,1.0,0.0,0.0,1,0.0004816955684007707,"luck, f, instead, everything, king",2025-08-28 20:12:32
+TMC,TMC the metals company Inc.,0.0,1.0,0.0,0.0,1,0.0004816955684007707,"luck, f, instead, everything, king",2025-08-28 20:12:32
+RY,Royal Bank of Canada,0.0,1.0,0.0,0.0,1,0.0004816955684007707,"canadian, banks, ry, 10x, kick",2025-08-28 20:12:32
+NEGG,"Newegg Commerce, Inc.",0.0,1.0,0.0,0.0,1,0.0004816955684007707,"negg, gain, porn, 130, 50",2025-08-28 20:12:33
+NAK,Northern Dynasty Minerals Ltd.,1.0,0.0,0.0,1.0,1,0.0004816955684007707,"collect, knick, naks, want, put",2025-08-28 20:12:33
+MDB,"MongoDB, Inc.",0.0,1.0,0.0,0.0,1,0.0004816955684007707,"blah, snow, png, dd, mdb",2025-08-28 20:12:34
+UUUU,Energy Fuels Inc.,1.0,0.0,0.0,1.0,1,0.0004816955684007707,"uuuu, 10k, mining, stocks, getting",2025-08-28 20:12:34
+ONDS,Ondas Holdings Inc.,0.0,1.0,0.0,0.0,1,0.0004816955684007707,"onds, start, bet, gonna, get",2025-08-28 20:12:35
+UPST,"Upstart Holdings, Inc.",0.0,1.0,0.0,0.0,1,0.0004816955684007707,"tmdx, two, monopoly, know, earnings",2025-08-28 20:12:35
+CSIQ,Canadian Solar Inc.,0.0,1.0,0.0,0.0,1,0.0004816955684007707,"china, solar, csiq, puts, gain",2025-08-28 20:12:35
+CONL,GraniteShares 2x Long COIN Daily ETF,1.0,0.0,0.0,1.0,1,0.0004816955684007707,"conl, coin, 2x, yolo, bought",2025-08-28 20:12:36
+TGT,Target Corporation,0.0,1.0,0.0,0.0,1,0.0004816955684007707,"line, target, self, checkout, mins",2025-08-28 20:12:36
+WMT,Walmart Inc.,0.0,1.0,0.0,0.0,1,0.0004816955684007707,"line, target, self, checkout, mins",2025-08-28 20:12:37
+VKTX,"Viking Therapeutics, Inc.",0.0,1.0,0.0,0.0,1,0.0004816955684007707,"caught, knife, played, bounce, vktx",2025-08-28 20:12:37
+GLXY,Galaxy Digital,0.0,1.0,0.0,0.0,1,0.0004816955684007707,"glxy, bags, feeling, extra, heavy",2025-08-28 20:12:38
+W,Wayfair Inc.,0.2,0.8,0.0,0.11111111111111112,5,0.0024084778420038534,"ai, billion, hpc, computing, google",2025-08-28 20:12:38
+BLSH,Bullish,0.0,1.0,0.0,0.0,1,0.0004816955684007707,"blsh, bullshit, ipo, told, shit",2025-08-28 20:12:39
+PACS,"PACS Group, Inc.",0.0,1.0,0.0,0.0,1,0.0004816955684007707,"pacs, https, com, still, facilities",2025-08-28 20:12:39
+ENSG,"The Ensign Group, Inc.",0.0,1.0,0.0,0.0,1,0.0004816955684007707,"pacs, https, com, still, facilities",2025-08-28 20:12:40
+NUVB,Nuvation Bio Inc.,0.0,1.0,0.0,0.0,1,0.0004816955684007707,"pacs, https, com, still, facilities",2025-08-28 20:12:40
+RBLX,Roblox Corporation,0.0,1.0,0.0,0.0,1,0.0004816955684007707,"nice, little, rblx, play, buying",2025-08-28 20:12:41
+R,"Ryder System, Inc.",0.15384615384615385,0.8461538461538461,0.0,0.08333333333333333,13,0.006262042389210019,"reddit, root, solar, ai, still",2025-08-28 20:12:43
+AMBQ,Unknown,0.0,1.0,0.0,0.0,1,0.0004816955684007707,"ai, company, earnings, wearables, like",2025-08-28 20:12:43
+MSOS,AdvisorShares Pure US Cannabis ETF,0.0,1.0,0.0,0.0,1,0.0004816955684007707,"msos, otm, calls, cannabis, rescheduling",2025-08-28 20:12:43
+GOOG,Alphabet Inc.,0.5,0.5,0.0,0.3333333333333333,4,0.0019267822736030828,"google, ai, cloud, googl, hpc",2025-08-28 20:12:44
+TTD,"The Trade Desk, Inc.",0.0,1.0,0.0,0.0,1,0.0004816955684007707,"dip, ttd, bought, kept, dipping",2025-08-28 20:12:45
+PONY,Pony AI Inc.,0.0,1.0,0.0,0.0,1,0.0004816955684007707,"wrd, 6, end, looking, primed",2025-08-28 20:12:45
+WRD,WeRide Inc.,0.0,1.0,0.0,0.0,1,0.0004816955684007707,"wrd, 6, end, looking, primed",2025-08-28 20:12:46
+NVT,nVent Electric plc,0.0,1.0,0.0,0.0,1,0.0004816955684007707,"ai, nvt, glw, infrastructure, names",2025-08-28 20:12:46
+GLW,Corning Incorporated,0.0,1.0,0.0,0.0,1,0.0004816955684007707,"ai, nvt, glw, infrastructure, names",2025-08-28 20:12:46
+LEU,Centrus Energy Corp.,1.0,0.0,0.0,1.0,1,0.0004816955684007707,"nuclear, energy, looking, sector, clean",2025-08-28 20:12:47
+CEG,Constellation Energy Corporation,1.0,0.0,0.0,1.0,1,0.0004816955684007707,"nuclear, energy, looking, sector, clean",2025-08-28 20:12:47
+NNE,NANO Nuclear Energy Inc.,1.0,0.0,0.0,1.0,1,0.0004816955684007707,"nuclear, energy, looking, sector, clean",2025-08-28 20:12:48
+IRA,Unknown,0.0,1.0,0.0,0.0,1,0.0004816955684007707,"advisor, personal, account, retirement, plus",2025-08-28 20:12:48
+ASML,ASML Holding N.V.,1.0,0.0,0.0,1.0,1,0.0004816955684007707,"us, ex, companies, markets, dividend",2025-08-28 20:12:49
+VOO,Vanguard S&P 500 ETF,0.0,1.0,0.0,0.0,1,0.0004816955684007707,"held, stress, 4, year, tesla",2025-08-28 20:12:49
+B,Unknown,0.1,0.9,0.0,0.052631578947368425,10,0.004816955684007707,"company, ai, stock, data, energy",2025-08-28 20:12:51
+LXRX,"Lexicon Pharmaceuticals, Inc.",0.0,1.0,0.0,0.0,1,0.0004816955684007707,"diabetes, drug, pain, phase, novo",2025-08-28 20:12:51
+TSM,Taiwan Semiconductor Manufacturing Company Limited,0.0,1.0,0.0,0.0,1,0.0004816955684007707,"ai, amd, especially, getting, bubble",2025-08-28 20:12:52
+MRVL,"Marvell Technology, Inc.",0.0,1.0,0.0,0.0,1,0.0004816955684007707,"revenue, pt, q, ai, buy",2025-08-28 20:12:52
+MAAS,Maase Inc.,0.0,1.0,0.0,0.0,1,0.0004816955684007707,"revenue, pt, q, ai, buy",2025-08-28 20:12:53
+AZTR,"Azitra, Inc.",0.0,1.0,0.0,0.0,1,0.0004816955684007707,"revenue, pt, q, ai, buy",2025-08-28 20:12:54
+SPOK,"Spok Holdings, Inc.",0.0,1.0,0.0,0.0,1,0.0004816955684007707,"spok, 0, vs, dividend, value",2025-08-28 20:12:54
+NUV,"Nuveen Municipal Value Fund, Inc.",0.0,1.0,0.0,0.0,2,0.0009633911368015414,"pacs, https, com, still, facilities",2025-08-28 20:12:54
+OVLY,Oak Valley Bancorp,0.0,1.0,0.0,0.0,1,0.0004816955684007707,"insiders, eli, lilly, lly, bought",2025-08-28 20:12:55
+UBFO,United Security Bancshares,0.0,1.0,0.0,0.0,1,0.0004816955684007707,"insiders, eli, lilly, lly, bought",2025-08-28 20:12:55
+KSS,Kohl's Corporation,0.0,1.0,0.0,0.0,1,0.0004816955684007707,"gamma, still, july, could, kohl",2025-08-28 20:12:56
+SMCI,"Super Micro Computer, Inc.",1.0,0.0,0.0,1.0,1,0.0004816955684007707,"still, ai, stocks, fairly, growth",2025-08-28 20:12:56
+ALAB,"Astera Labs, Inc.",0.0,1.0,0.0,0.0,1,0.0004816955684007707,"astera, labs, alab, 15, ah",2025-08-28 20:12:57
+SGEN,Unknown,0.0,1.0,0.0,0.0,1,0.0004816955684007707,"stock, million, madrigal, baker, common",2025-08-28 20:12:57
+XBI,SPDR S&P Biotech ETF,0.0,1.0,0.0,0.0,1,0.0004816955684007707,"stock, million, madrigal, baker, common",2025-08-28 20:12:57
+PFE,Pfizer Inc.,0.0,1.0,0.0,0.0,1,0.0004816955684007707,"stock, million, madrigal, baker, common",2025-08-28 20:12:58
+BMY,Bristol-Myers Squibb Company,0.0,1.0,0.0,0.0,1,0.0004816955684007707,"stock, million, madrigal, baker, common",2025-08-28 20:12:58
+MRK,"Merck & Co., Inc.",0.0,1.0,0.0,0.0,1,0.0004816955684007707,"stock, million, madrigal, baker, common",2025-08-28 20:12:59
+CELC,Celcuity Inc.,0.0,1.0,0.0,0.0,1,0.0004816955684007707,"stock, million, madrigal, baker, common",2025-08-28 20:12:59
+VXX,iPath Series B S&P 500 VIX Short-Term Futures ETN,0.0,1.0,0.0,0.0,1,0.0004816955684007707,"polymarket, prices, 25, odds, cut",2025-08-28 20:12:59
+HOOD,"Robinhood Markets, Inc.",0.0,1.0,0.0,0.0,1,0.0004816955684007707,"polymarket, prices, 25, odds, cut",2025-08-28 20:13:00
+RGTI,"Rigetti Computing, Inc.",0.0,1.0,0.0,0.0,1,0.0004816955684007707,"50, assigned, exactly, strike, 15",2025-08-28 20:13:00
+QBTS,D-Wave Quantum Inc.,0.0,1.0,0.0,0.0,1,0.0004816955684007707,"skyt, quantum, jan, 2026, small",2025-08-28 20:13:01
+FLY,Firefly Aerospace Inc.,0.0,1.0,0.0,0.0,1,0.0004816955684007707,"puts, fly, end, ipo, day",2025-08-28 20:13:01
+SLS,"SELLAS Life Sciences Group, Inc.",0.0,1.0,0.0,0.0,1,0.0004816955684007707,"sls, call, volume, something, stock",2025-08-28 20:13:02
+TH,Target Hospitality Corp.,0.0,1.0,0.0,0.0,1,0.00048262548262548264,"th, critical, minerals, contract, ai",2025-08-30 13:04:17
+XXXXX,Unknown,0.0,1.0,0.0,0.0,17,0.008204633204633204,"wiki, investing, https, www, reddit",2025-08-30 13:04:21
+NVDA,NVIDIA Corporation,0.09090909090909091,0.9090909090909091,0.0,0.047619047619047616,11,0.005308880308880309,"revenue, ai, nvda, pt, 6",2025-08-30 13:04:22
+OPEN,Opendoor Technologies Inc.,0.1111111111111111,0.8888888888888888,0.0,0.058823529411764705,9,0.004343629343629344,"https, open, com, finviz, quote",2025-08-30 13:04:23
+ROOT,"Root, Inc.",0.0,1.0,0.0,0.0,2,0.0009652509652509653,"root, market, progressive, name, stock",2025-08-30 13:04:24
+CRWV,"CoreWeave, Inc.",0.16666666666666666,0.8333333333333334,0.0,0.0909090909090909,6,0.0028957528957528956,"coreweave, crwv, inference, stock, ai",2025-08-30 13:04:25
+MSFT,Microsoft Corporation,0.0,1.0,0.0,0.0,6,0.0028957528957528956,"msft, increased, stake, stock, earnings",2025-08-30 13:04:25
+UNH,UnitedHealth Group Incorporated,0.14285714285714285,0.7142857142857143,0.14285714285714285,0.08333333333333333,7,0.0033783783783783786,"revenue, pt, q, unh, ai",2025-08-30 13:04:26
+SOFI,"SoFi Technologies, Inc.",0.0,1.0,0.0,0.0,3,0.0014478764478764478,"options, sofi, like, time, well",2025-08-30 13:04:27
+PLTR,Palantir Technologies Inc.,0.5,0.3333333333333333,0.16666666666666666,0.375,6,0.0028957528957528956,"revenue, 2, pt, ai, q",2025-08-30 13:04:28
+META,"Meta Platforms, Inc.",0.0,1.0,0.0,0.0,5,0.002413127413127413,"meta, data, https, www, sec",2025-08-30 13:04:29
+SPY,SPDR S&P 500 ETF,0.0,1.0,0.0,0.0,5,0.002413127413127413,"back, spy, pullback, monthly, months",2025-08-30 13:04:29
+SNOW,Snowflake Inc.,0.0,1.0,0.0,0.0,4,0.0019305019305019305,"blah, snow, luck, f, png",2025-08-30 13:04:30
+AAPL,Apple Inc.,0.0,1.0,0.0,0.0,1,0.00048262548262548264,"price, aapl, chart, https, www",2025-08-30 13:04:30
+AMD,"Advanced Micro Devices, Inc.",0.0,1.0,0.0,0.0,4,0.0019305019305019305,"market, 6, august, stock, rose",2025-08-30 13:04:31
+IQ,"iQIYI, Inc.",0.0,1.0,0.0,0.0,1,0.00048262548262548264,"content, domestic, iq, rumored, dramas",2025-08-30 13:04:32
+AMZN,"Amazon.com, Inc.",0.25,0.75,0.0,0.14285714285714285,4,0.0019305019305019305,"increased, stake, amzn, day, high",2025-08-30 13:04:32
+NVO,Novo Nordisk A/S,0.0,1.0,0.0,0.0,4,0.0019305019305019305,"stock, million, mash, nvo, 1",2025-08-30 13:04:33
+INTC,Intel Corporation,0.25,0.75,0.0,0.14285714285714285,4,0.0019305019305019305,"revenue, pt, ai, q, growth",2025-08-30 13:04:34
+SAMPL,Unknown,0.0,1.0,0.0,0.0,1,0.00048262548262548264,"sell, 180, options, around, position",2025-08-30 13:04:34
+QS,QuantumScape Corporation,0.0,1.0,0.0,0.0,1,0.00048262548262548264,"qs, term, short, hold, need",2025-08-30 13:04:35
+ACHR,Archer Aviation Inc.,0.0,1.0,0.0,0.0,3,0.0014478764478764478,"https, png, 2025, archer, achr",2025-08-30 13:04:36
+CVX,Chevron Corporation,0.0,1.0,0.0,0.0,1,0.00048262548262548264,"data, energy, power, centers, ai",2025-08-30 13:04:36
+BE,Bloom Energy Corporation,0.0,1.0,0.0,0.0,1,0.00048262548262548264,"data, energy, power, centers, ai",2025-08-30 13:04:37
+LULU,lululemon athletica inc.,0.0,1.0,0.0,0.0,1,0.00048262548262548264,"lulu, undervalued, international, growth, china",2025-08-30 13:04:37
+AIFU,AIFU Inc.,0.0,1.0,0.0,0.0,3,0.0014478764478764478,"increased, stake, aifu, also, nvda",2025-08-30 13:04:38
+NBIS,Unknown,0.0,1.0,0.0,0.0,3,0.0014478764478764478,"ai, nebius, salesforce, training, market",2025-08-30 13:04:38
+TSLA,"Tesla, Inc.",0.0,1.0,0.0,0.0,3,0.0014478764478764478,"_, options, billion, like, sofi",2025-08-30 13:04:39
+QQQ,Invesco QQQ Trust,0.0,1.0,0.0,0.0,3,0.0014478764478764478,"back, months, spy, qqq, 2022",2025-08-30 13:04:39
+SNAP,Snap Inc.,0.0,1.0,0.0,0.0,2,0.0009652509652509653,"revenue, financial, advice, snap, ai",2025-08-30 13:04:40
+PSKY,Paramount Skydance Corporation,0.0,1.0,0.0,0.0,3,0.0014478764478764478,"psky, yolo, captain, crayola, taken",2025-08-30 13:04:40
+TMDX,"TransMedics Group, Inc.",0.0,1.0,0.0,0.0,1,0.00048262548262548264,"tmdx, two, monopoly, know, earnings",2025-08-30 13:04:41
+SRPT,"Sarepta Therapeutics, Inc.",0.3333333333333333,0.6666666666666666,0.0,0.2,3,0.0014478764478764478,"stock, million, madrigal, 1, baker",2025-08-30 13:04:41
+GRAB,Grab Holdings Limited,1.0,0.0,0.0,1.0,2,0.0009652509652509653,"grab, 11k, yolo, money, valued",2025-08-30 13:04:42
+O,Realty Income Corporation,0.21052631578947367,0.7894736842105263,0.0,0.11764705882352941,19,0.00916988416988417,"https, com, open, energy, stock",2025-08-30 13:04:44
+SMR,NuScale Power Corporation,0.5,0.5,0.0,0.3333333333333333,2,0.0009652509652509653,"nuclear, company, haleu, isotopes, asp",2025-08-30 13:04:44
+MRVL,"Marvell Technology, Inc.",0.5,0.5,0.0,0.3333333333333333,2,0.0009652509652509653,"revenue, ai, pt, q, china",2025-08-30 13:04:45
+RUN,Sunrun Inc.,0.0,1.0,0.0,0.0,2,0.0009652509652509653,"solar, power, trump, wind, projects",2025-08-30 13:04:46
+OXY,Occidental Petroleum Corporation,0.0,1.0,0.0,0.0,1,0.00048262548262548264,"data, energy, power, centers, ai",2025-08-30 13:04:46
+MP,MP Materials Corp.,0.0,1.0,0.0,0.0,1,0.00048262548262548264,"data, energy, power, centers, ai",2025-08-30 13:04:47
+ORR,Militia Long/Short Equity ETF,1.0,0.0,0.0,1.0,1,0.00048262548262548264,"long, orr, short, etf, day",2025-08-30 13:04:47
+APLD,Applied Digital Corporation,0.0,1.0,0.0,0.0,2,0.0009652509652509653,"apld, ai, power, per, mw",2025-08-30 13:04:48
+OSCR,"Oscar Health, Inc.",0.0,1.0,0.0,0.0,2,0.0009652509652509653,"increased, stake, oscr, unh, institutional",2025-08-30 13:04:48
+BABA,Alibaba Group Holding Limited,0.0,1.0,0.0,0.0,2,0.0009652509652509653,"back, months, 2022, nvda, got",2025-08-30 13:04:49
+APP,AppLovin Corporation,1.0,0.0,0.0,1.0,1,0.00048262548262548264,"app, gut, 100k, yolo, bullish",2025-08-30 13:04:49
+KIEV,Unknown,0.0,1.0,0.0,0.0,1,0.00048262548262548264,"th, critical, minerals, contract, ai",2025-08-30 13:04:50
+FN,Fabrinet,0.5,0.5,0.0,0.3333333333333333,2,0.0009652509652509653,"week, fn, everything, good, far",2025-08-30 13:04:51
+BITF,Bitfarms Ltd.,1.0,0.0,0.0,1.0,1,0.00048262548262548264,"ai, hpc, bitfarms, high, performance",2025-08-30 13:04:51
+WULF,TeraWulf Inc.,0.5,0.5,0.0,0.3333333333333333,2,0.0009652509652509653,"ai, hpc, bitfarms, high, performance",2025-08-30 13:04:52
+GOOGL,Alphabet Inc.,0.5,0.5,0.0,0.3333333333333333,2,0.0009652509652509653,"ai, hpc, bitfarms, high, performance",2025-08-30 13:04:52
+PL,Planet Labs PBC,0.375,0.5,0.125,0.25,8,0.003861003861003861,"revenue, 2, 1, pt, ai",2025-08-30 13:04:53
+RKLB,Rocket Lab Corporation,0.5,0.5,0.0,0.3333333333333333,2,0.0009652509652509653,"rklb, calls, electron, 45, call",2025-08-30 13:04:54
+MER,Meren Energy Inc.,0.0,1.0,0.0,0.0,1,0.00048262548262548264,"company, meren, oil, production, cash",2025-08-30 13:04:54
+NIO,NIO Inc.,0.5,0.5,0.0,0.3333333333333333,2,0.0009652509652509653,"revenue, pt, q, ai, buy",2025-08-30 13:04:55
+AEO,"American Eagle Outfitters, Inc.",0.5,0.5,0.0,0.3333333333333333,2,0.0009652509652509653,"tmdx, aeo, sydney, sweeney, two",2025-08-30 13:04:55
+LLY,Eli Lilly and Company,0.0,1.0,0.0,0.0,2,0.0009652509652509653,"tmdx, lly, two, monopoly, know",2025-08-30 13:04:56
+COIN,"Coinbase Global, Inc.",1.0,0.0,0.0,1.0,1,0.00048262548262548264,"conl, coin, 2x, yolo, bought",2025-08-30 13:04:56
+PATH,UiPath Inc.,0.0,1.0,0.0,0.0,1,0.00048262548262548264,"uipath, ai, microsoft, like, arr",2025-08-30 13:04:57
+ANF,Abercrombie & Fitch Co.,1.0,0.0,0.0,1.0,1,0.00048262548262548264,"hollister, earnings, anf, abercrombie, school",2025-08-30 13:04:57
+WRD,WeRide Inc.,0.5,0.5,0.0,0.3333333333333333,2,0.0009652509652509653,"wrd, saw, weride, singapore, grab",2025-08-30 13:04:58
+ASPI,ASP Isotopes Inc.,0.0,1.0,0.0,0.0,1,0.00048262548262548264,"company, haleu, isotopes, nuclear, asp",2025-08-30 13:04:58
+OKLO,Oklo Inc.,0.5,0.5,0.0,0.3333333333333333,2,0.0009652509652509653,"company, haleu, nuclear, isotopes, asp",2025-08-30 13:04:59
+MRK,"Merck & Co., Inc.",0.0,1.0,0.0,0.0,2,0.0009652509652509653,"stock, million, pe, 5, madrigal",2025-08-30 13:04:59
+KO,The Coca-Cola Company,1.0,0.0,0.0,1.0,1,0.00048262548262548264,"ko, bull, thesis, looking, coca",2025-08-30 13:05:00
+IONQ,"IonQ, Inc.",0.0,1.0,0.0,0.0,2,0.0009652509652509653,"skyt, quantum, insiders, also, ionq",2025-08-30 13:05:00
+GILD,"Gilead Sciences, Inc.",0.0,1.0,0.0,0.0,1,0.00048262548262548264,"mash, gilead, drops, novo, gild",2025-08-30 13:05:01
+BGM,BGM Group Ltd.,0.0,1.0,0.0,0.0,2,0.0009652509652509653,"msft, bgm, astera, labs, alab",2025-08-30 13:05:01
+MDGL,"Madrigal Pharmaceuticals, Inc.",0.0,1.0,0.0,0.0,1,0.00048262548262548264,"stock, million, madrigal, baker, common",2025-08-30 13:05:02
+TWLO,Twilio Inc.,0.0,1.0,0.0,0.0,1,0.00048262548262548264,"twlo, thoughts, earnings, month, 1",2025-08-30 13:05:02
+ET,Energy Transfer LP,0.0,1.0,0.0,0.0,1,0.00048262548262548264,"thinking, buy, pooping, et, got",2025-08-30 13:05:02
+ASTS,"AST SpaceMobile, Inc.",0.0,1.0,0.0,0.0,1,0.00048262548262548264,"move, implied, earnings, asts, options",2025-08-30 13:05:03
+CAR,"Avis Budget Group, Inc.",0.0,1.0,0.0,0.0,1,0.00048262548262548264,"car, dip, call, trading, want",2025-08-30 13:05:03
+JOBY,"Joby Aviation, Inc.",0.0,1.0,0.0,0.0,1,0.00048262548262548264,"ohio, joby, aviation, promised, 2",2025-08-30 13:05:04
+FSLR,"First Solar, Inc.",0.0,1.0,0.0,0.0,1,0.00048262548262548264,"solar, power, trump, wind, projects",2025-08-30 13:05:04
+NXDR,Unknown,0.0,1.0,0.0,0.0,1,0.00048262548262548264,"nextdoor, growth, ads, ad, app",2025-08-30 13:05:05
+NFLX,"Netflix, Inc.",0.0,1.0,0.0,0.0,1,0.00048262548262548264,"increased, stake, oscr, institutional, ownership",2025-08-30 13:05:06
+ORCL,Oracle Corporation,0.0,1.0,0.0,0.0,1,0.00048262548262548264,"increased, stake, oscr, institutional, ownership",2025-08-30 13:05:06
+ARM,Arm Holdings plc,0.0,1.0,0.0,0.0,1,0.00048262548262548264,"increased, stake, oscr, institutional, ownership",2025-08-30 13:05:06
+DHI,"D.R. Horton, Inc.",0.0,1.0,0.0,0.0,1,0.00048262548262548264,"increased, stake, oscr, institutional, ownership",2025-08-30 13:05:07
+LEN,Lennar Corporation,0.0,1.0,0.0,0.0,1,0.00048262548262548264,"increased, stake, oscr, institutional, ownership",2025-08-30 13:05:07
+NUE,Nucor Corporation,0.0,1.0,0.0,0.0,1,0.00048262548262548264,"increased, stake, oscr, institutional, ownership",2025-08-30 13:05:08
+INOD,Innodata Inc.,0.0,1.0,0.0,0.0,1,0.00048262548262548264,"companies, innodata, company, ai, quarter",2025-08-30 13:05:08
+BROS,Dutch Bros Inc.,0.0,1.0,0.0,0.0,1,0.00048262548262548264,"companies, innodata, company, ai, quarter",2025-08-30 13:05:09
+SFTBY,SoftBank Group Corp.,1.0,0.0,0.0,1.0,1,0.00048262548262548264,"softbank, sftby, owned, stock, long",2025-08-30 13:05:09
+VFC,V.F. Corporation,0.0,1.0,0.0,0.0,1,0.00048262548262548264,"options, like, sofi, time, well",2025-08-30 13:05:10
+FLYY,"Spirit Aviation Holdings, Inc.",0.0,1.0,0.0,0.0,1,0.00048262548262548264,"back, invested, august, flyy, 43",2025-08-30 13:05:10
+IREN,IREN Limited,1.0,0.0,0.0,1.0,1,0.00048262548262548264,"thanks, iren, 440k, gain",2025-08-30 13:05:10
+CIFR,Cipher Mining Inc.,0.0,1.0,0.0,0.0,1,0.00048262548262548264,"cifr, 13k, yolo, reek, playing",2025-08-30 13:05:11
+SHOP,Shopify Inc.,0.0,1.0,0.0,0.0,1,0.00048262548262548264,"luck, f, instead, everything, king",2025-08-30 13:05:11
+SOUN,"SoundHound AI, Inc.",0.0,1.0,0.0,0.0,1,0.00048262548262548264,"luck, f, instead, everything, king",2025-08-30 13:05:12
+PANW,"Palo Alto Networks, Inc.",0.0,1.0,0.0,0.0,1,0.00048262548262548264,"luck, f, instead, everything, king",2025-08-30 13:05:12
+TMC,TMC the metals company Inc.,0.0,1.0,0.0,0.0,1,0.00048262548262548264,"luck, f, instead, everything, king",2025-08-30 13:05:12
+CGC,Canopy Growth Corporation,0.0,1.0,0.0,0.0,1,0.00048262548262548264,"cgc, yolo, last, 20k, lose",2025-08-30 13:05:13
+RYCEY,Rolls-Royce Holdings plc,0.0,1.0,0.0,0.0,1,0.00048262548262548264,"bomboclaat, smooth, brain, gamblers, buying",2025-08-30 13:05:13
+RY,Royal Bank of Canada,0.0,1.0,0.0,0.0,2,0.0009652509652509653,"canadian, banks, bomboclaat, smooth, brain",2025-08-30 13:05:14
+MDB,"MongoDB, Inc.",0.0,1.0,0.0,0.0,1,0.00048262548262548264,"blah, snow, png, dd, mdb",2025-08-30 13:05:14
+UUUU,Energy Fuels Inc.,1.0,0.0,0.0,1.0,1,0.00048262548262548264,"uuuu, 10k, mining, stocks, getting",2025-08-30 13:05:14
+ONDS,Ondas Holdings Inc.,0.0,1.0,0.0,0.0,1,0.00048262548262548264,"onds, start, bet, gonna, get",2025-08-30 13:05:15
+UPST,"Upstart Holdings, Inc.",0.0,1.0,0.0,0.0,1,0.00048262548262548264,"tmdx, two, monopoly, know, earnings",2025-08-30 13:05:15
+SBET,"SharpLink Gaming, Inc.",0.0,1.0,0.0,0.0,1,0.00048262548262548264,"eth, sbet, mnav, etha, 1",2025-08-30 13:05:16
+CSIQ,Canadian Solar Inc.,0.0,1.0,0.0,0.0,1,0.00048262548262548264,"china, solar, csiq, puts, gain",2025-08-30 13:05:16
+CONL,GraniteShares 2x Long COIN Daily ETF,1.0,0.0,0.0,1.0,1,0.00048262548262548264,"conl, coin, 2x, yolo, bought",2025-08-30 13:05:16
+TGT,Target Corporation,0.0,1.0,0.0,0.0,1,0.00048262548262548264,"line, target, self, checkout, mins",2025-08-30 13:05:17
+WMT,Walmart Inc.,0.0,1.0,0.0,0.0,1,0.00048262548262548264,"line, target, self, checkout, mins",2025-08-30 13:05:17
+VKTX,"Viking Therapeutics, Inc.",0.0,1.0,0.0,0.0,1,0.00048262548262548264,"caught, knife, played, bounce, vktx",2025-08-30 13:05:18
+GLXY,Galaxy Digital,0.0,1.0,0.0,0.0,1,0.00048262548262548264,"glxy, bags, feeling, extra, heavy",2025-08-30 13:05:18
+W,Wayfair Inc.,0.3333333333333333,0.6666666666666666,0.0,0.2,6,0.0028957528957528956,"ai, billion, hpc, computing, google",2025-08-30 13:05:19
+BLSH,Bullish,0.0,1.0,0.0,0.0,1,0.00048262548262548264,"blsh, bullshit, ipo, told, shit",2025-08-30 13:05:19
+PACS,"PACS Group, Inc.",0.0,1.0,0.0,0.0,1,0.00048262548262548264,"pacs, https, com, still, facilities",2025-08-30 13:05:20
+ENSG,"The Ensign Group, Inc.",0.0,1.0,0.0,0.0,1,0.00048262548262548264,"pacs, https, com, still, facilities",2025-08-30 13:05:20
+NUVB,Nuvation Bio Inc.,0.0,1.0,0.0,0.0,1,0.00048262548262548264,"pacs, https, com, still, facilities",2025-08-30 13:05:21
+RBLX,Roblox Corporation,0.0,1.0,0.0,0.0,1,0.00048262548262548264,"nice, little, rblx, play, buying",2025-08-30 13:05:21
+R,"Ryder System, Inc.",0.08333333333333333,0.9166666666666666,0.0,0.043478260869565216,12,0.005791505791505791,"root, solar, market, year, power",2025-08-30 13:05:23
+AMBQ,Unknown,0.0,1.0,0.0,0.0,1,0.00048262548262548264,"ai, company, earnings, wearables, like",2025-08-30 13:05:24
+MSOS,AdvisorShares Pure US Cannabis ETF,0.0,1.0,0.0,0.0,1,0.00048262548262548264,"msos, otm, calls, cannabis, rescheduling",2025-08-30 13:05:24
+PONY,Pony AI Inc.,0.0,1.0,0.0,0.0,1,0.00048262548262548264,"wrd, 6, end, looking, primed",2025-08-30 13:05:24
+NVT,nVent Electric plc,0.0,1.0,0.0,0.0,1,0.00048262548262548264,"ai, nvt, glw, infrastructure, names",2025-08-30 13:05:25
+GLW,Corning Incorporated,0.0,1.0,0.0,0.0,1,0.00048262548262548264,"ai, nvt, glw, infrastructure, names",2025-08-30 13:05:25
+LEU,Centrus Energy Corp.,1.0,0.0,0.0,1.0,1,0.00048262548262548264,"nuclear, energy, looking, sector, clean",2025-08-30 13:05:26
+CEG,Constellation Energy Corporation,1.0,0.0,0.0,1.0,1,0.00048262548262548264,"nuclear, energy, looking, sector, clean",2025-08-30 13:05:26
+NNE,NANO Nuclear Energy Inc.,1.0,0.0,0.0,1.0,1,0.00048262548262548264,"nuclear, energy, looking, sector, clean",2025-08-30 13:05:26
+IRA,Unknown,0.0,1.0,0.0,0.0,1,0.00048262548262548264,"advisor, personal, account, retirement, plus",2025-08-30 13:05:27
+ASML,ASML Holding N.V.,1.0,0.0,0.0,1.0,1,0.00048262548262548264,"us, ex, companies, markets, dividend",2025-08-30 13:05:27
+VOO,Vanguard S&P 500 ETF,0.0,1.0,0.0,0.0,1,0.00048262548262548264,"held, stress, 4, year, tesla",2025-08-30 13:05:28
+B,Unknown,0.09090909090909091,0.9090909090909091,0.0,0.047619047619047616,11,0.005308880308880309,"ai, company, stock, data, energy",2025-08-30 13:05:29
+LXRX,"Lexicon Pharmaceuticals, Inc.",0.0,1.0,0.0,0.0,1,0.00048262548262548264,"diabetes, drug, pain, phase, novo",2025-08-30 13:05:30
+TSM,Taiwan Semiconductor Manufacturing Company Limited,0.0,1.0,0.0,0.0,1,0.00048262548262548264,"ai, amd, especially, getting, bubble",2025-08-30 13:05:30
+REGN,"Regeneron Pharmaceuticals, Inc.",0.0,1.0,0.0,0.0,1,0.00048262548262548264,"pe, 5, profit, margin, healthcare",2025-08-30 13:05:31
+CMCSA,Comcast Corporation,0.0,1.0,0.0,0.0,1,0.00048262548262548264,"pe, 5, profit, margin, healthcare",2025-08-30 13:05:31
+MAAS,Carve Group Ltd,0.0,1.0,0.0,0.0,1,0.00048262548262548264,"revenue, pt, q, ai, buy",2025-08-30 13:05:32
+AZTR,"Azitra, Inc.",0.0,1.0,0.0,0.0,1,0.00048262548262548264,"revenue, pt, q, ai, buy",2025-08-30 13:05:32
+SPOK,"Spok Holdings, Inc.",0.0,1.0,0.0,0.0,1,0.00048262548262548264,"spok, 0, vs, dividend, value",2025-08-30 13:05:32
+NUV,"Nuveen Municipal Value Fund, Inc.",0.0,1.0,0.0,0.0,2,0.0009652509652509653,"pacs, https, com, still, facilities",2025-08-30 13:05:33
+OVLY,Oak Valley Bancorp,0.0,1.0,0.0,0.0,1,0.00048262548262548264,"insiders, eli, lilly, lly, bought",2025-08-30 13:05:33
+UBFO,United Security Bancshares,0.0,1.0,0.0,0.0,1,0.00048262548262548264,"insiders, eli, lilly, lly, bought",2025-08-30 13:05:34
+KSS,Kohl's Corporation,0.0,1.0,0.0,0.0,1,0.00048262548262548264,"gamma, still, july, could, kohl",2025-08-30 13:05:34
+SMCI,"Super Micro Computer, Inc.",1.0,0.0,0.0,1.0,1,0.00048262548262548264,"still, ai, stocks, fairly, growth",2025-08-30 13:05:35
+ALAB,"Astera Labs, Inc.",0.0,1.0,0.0,0.0,1,0.00048262548262548264,"astera, labs, alab, 15, ah",2025-08-30 13:05:35
+SGEN,Unknown,0.0,1.0,0.0,0.0,1,0.00048262548262548264,"stock, million, madrigal, baker, common",2025-08-30 13:05:35
+XBI,SPDR S&P Biotech ETF,0.0,1.0,0.0,0.0,1,0.00048262548262548264,"stock, million, madrigal, baker, common",2025-08-30 13:05:36
+PFE,Pfizer Inc.,0.0,1.0,0.0,0.0,1,0.00048262548262548264,"stock, million, madrigal, baker, common",2025-08-30 13:05:36
+BMY,Bristol-Myers Squibb Company,0.0,1.0,0.0,0.0,1,0.00048262548262548264,"stock, million, madrigal, baker, common",2025-08-30 13:05:37
+CELC,Celcuity Inc.,0.0,1.0,0.0,0.0,1,0.00048262548262548264,"stock, million, madrigal, baker, common",2025-08-30 13:05:37
+VXX,iPath Series B S&P 500 VIX Short-Term Futures ETN,0.0,1.0,0.0,0.0,1,0.00048262548262548264,"polymarket, prices, 25, odds, cut",2025-08-30 13:05:37
+HOOD,"Robinhood Markets, Inc.",0.0,1.0,0.0,0.0,1,0.00048262548262548264,"polymarket, prices, 25, odds, cut",2025-08-30 13:05:38
+BULL,Webull Corporation,0.0,1.0,0.0,0.0,1,0.00048262548262548264,"show, earnings, im, come, biggest",2025-08-30 13:05:38
+RGTI,"Rigetti Computing, Inc.",0.0,1.0,0.0,0.0,1,0.00048262548262548264,"50, assigned, exactly, strike, 15",2025-08-30 13:05:39
+QBTS,D-Wave Quantum Inc.,0.0,1.0,0.0,0.0,1,0.00048262548262548264,"skyt, quantum, jan, 2026, small",2025-08-30 13:05:39
+FLY,Firefly Aerospace Inc.,0.0,1.0,0.0,0.0,2,0.0009652509652509653,"back, invested, august, flyy, 43",2025-08-30 13:05:39
+FIG,"Figma, Inc.",0.0,1.0,0.0,0.0,1,0.00048262548262548264,"puts, fly, end, ipo, day",2025-08-30 13:05:40
+SLS,"SELLAS Life Sciences Group, Inc.",0.0,1.0,0.0,0.0,1,0.00048262548262548264,"sls, call, volume, something, stock",2025-08-30 13:05:40
